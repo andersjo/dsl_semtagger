@@ -1,0 +1,29 @@
+#ud-dev-conllu, first sentence, annotated
+1	Hvor	hvor	ADV	O
+2	kommer	komme	VERB	B-verb.motion
+3	julemanden	julemand	NOUN	B-noun.person
+4	fra	fra	ADP	O
+5	?	?	PUNCT	O
+
+#ud-dev-conllu, second sentence, annotated
+1	Flertallet	flertal	NOUN	B-noun.quantity
+2	lever	leve	VERB	B-verb.stative
+3	stadig	stadig	ADV	O
+4	under	under	ADP	O
+5	plastikstykker	plastikstykke	NOUN	B-noun.artifact
+6	eller	eller	CONJ	_
+7	tæpper	tæppe	NOUN	B-noun.artifact
+8	,	,	PUNCT	_
+9	som	som	PRON	_
+10	de	de	PRON	_
+11	har	have	AUX	_
+12	spændt	spænde	VERB	B-verb.act
+13	ud	ud	ADV	B-verb.PARTICLE
+14	over	over	ADP	_
+15	nogle	nogen	DET	_
+16	stokke	stok	NOUN	B-noun.object
+17	som	som	ADP	_
+18	et	en	DET	_
+19	improviseret	improvisere	VERB	B-adj.phys
+20	telt	telt	NOUN	B-noun.artifact
+21	.	.	PUNCT	_
