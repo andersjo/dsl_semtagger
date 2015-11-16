@@ -1,6 +1,8 @@
 # dsl_semtagger
 ## TODO
 1. File converters to internal format (UD-based)
+  1. dsl2ud -- in particular to set punctuations as tokens
+  2. ud2dsl -- to make sure the output is korpusdk-compliant (`<s>` tags, punctuations in their own column, etc)
 2. POS-tag and lemmatize training data (which comes out as bare form+supersense annotations from webanno)
   1. Export from UD_Danish to get POS tags
   2. Train POS-tagger on Rungsted (Form, suffixes, embeddings?)
