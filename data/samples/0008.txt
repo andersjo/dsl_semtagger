@@ -1,0 +1,3417 @@
+<s id="2000-8-0">
+navnet	Navnet	_	navn	N	NC:sdun:--:----
+på	på	_	på	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+nye	nye	_	ny	A	AC:sdu#:--:p---
+varebil	varebil	_	varebil	N	NC:siuc:--:----
+er	er	_	være	V	VF:----:sa:----
+h	H	_	H	N	NP:siu#:--:----
+1	1	,_	1	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+betydelig	betydelig	_	betydelig	A	AD:----:--:p---
+mere	mere	_	megen	A	AD:----:--:c---
+vaks	vaks	_	vaks	A	AC:siuc:--:p---
+end	end	_	end	C	CS:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+nuværende	nuværende	_	nuværende	A	AC:§§u§:--:p---
+model	model	_	model	N	NC:siuc:--:----
+100	100	.$	100	L	LC:--u-:--:----
+</s>
+<s id="2000-8-1">
+men	Men	_	men	C	CC:----:--:----
+hvis	hvis	_	hvis	C	CS:----:--:----
+arbejdsgiveren	arbejdsgiveren	_	arbejdsgiver	N	NC:sduc:--:----
+er	er	_	være	V	VF:----:sa:----
+utilfreds	utilfreds	_	utilfreds	A	AD:----:--:p---
+med	med	_	med	T	T-:----:--:----
+påbuddet	påbuddet	,_	påbud	N	NC:sdun:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+bare	bare	_	bare	D	D-:----:--:u---
+klage	klage	_	klage	V	VI:----:-a:----
+over	over	_	over	T	T-:----:--:----
+det	det	,_	det	P	PP:s-un:--:-3n-
+og	og	_	og	C	CC:----:--:----
+dermed	dermed	_	dermed	D	D-:----:--:u---
+fortsætte	fortsætte	_	fortsætte	V	VI:----:-a:----
+med	med	_	med	T	T-:----:--:----
+ulovlighederne	ulovlighederne	_	ulovlighed	N	NC:pdu#:--:----
+i	i	_	i	T	T-:----:--:----
+årevis	årevis	,_	årevis	D	D-:----:--:u---
+mens	mens	_	mens	C	CS:----:--:----
+klagen	klagen	_	klage	N	NC:sduc:--:----
+behandles	behandles	.$	behandle	V	VF:----:sp:----
+</s>
+<s id="2000-8-2">
+hvis	Hvis	_	hvis	C	CS:----:--:----
+peter	Peter	_	Peter	N	NP:siu#:--:----
+schmeichel	Schmeichel	_	Schmeichel	N	NP:siu#:--:----
+rent	rent	_	ren	A	AD:----:--:p---
+faktisk	faktisk	_	faktisk	A	AD:----:--:p---
+er	er	_	være	V	VF:----:sa:----
+racist	racist	,_	racist	N	NC:siuc:--:----
+mangler	mangler	_	mangle	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+endnu	endnu	_	endnu	D	D-:----:--:u---
+at	at	_	at	U	UI:----:--:----
+delagtiggøre	delagtiggøre	_	delagtiggøre	V	VI:----:-a:----
+offentligheden	offentligheden	_	offentlighed	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+det	det	.$	det	P	PP:s-un:--:-3n-
+</s>
+<s id="2000-8-3">
+_	_	'	_	X	XP:----:--:----
+man	Man	_	Man	N	NP:siu#:--:----
+må	må	_	måtte	V	VF:----:sa:----
+være	være	_	være	V	VI:----:-a:----
+stolt	stolt	_	stolt	A	AC:siu§:--:p---
+af	af	_	af	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+virksomhed	virksomhed	,_	virksomhed	N	NC:siuc:--:----
+man	man	_	man	P	PI:#-uc:--:----
+arbejder	arbejder	_	arbejde	V	VF:----:sa:----
+for	for	_	for	D	D-:----:--:u---
+for	for	.$	for	T	T-:----:--:----
+</s>
+<s id="2000-8-4">
+gentofte	Gentofte	_	Gentofte	N	NP:siu#:--:----
+1x5	1x5	_[...]_	1x5	N	NP:siu#:--:----
+o	o	$	og	C	CC:----:--:----
+</s>
+<s id="2000-8-5">
+asbjørn	Asbjørn	_	Asbjørn	N	NP:siu#:--:----
+jensen	Jensen	_	Jensen	N	NP:siu#:--:----
+tilbyder	tilbyder	_	tilbyde	V	VF:----:sa:----
+forligsinstitutionens	forligsinstitutionens	_	forligsinstitution	N	NC:sdgc:--:----
+assistance	assistance	_	assistance	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+parter	parter	,_	part	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+ønsker	ønsker	_	ønske	V	VF:----:sa:----
+at	at	_	at	U	UI:----:--:----
+gøre	gøre	_	gøre	V	VI:----:-a:----
+brug	brug	_	brug	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+forlængede	forlængede	_	forlænge	V	VP:sdu#:t-:----
+forhandlingsfrist	forhandlingsfrist	.$	forhandlingsfrist	N	NC:siuc:--:----
+</s>
+<s id="2000-8-6">
+docent	Docent	_	docent	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+pastor	pastor	,_	pastor	N	NC:siuc:--:----
+dr	dr	.	doctor	X	XF:----:--:----
+theol	theol	._	theologiae	X	XF:----:--:----
+</s>
+<s id="2000-8-7">
+den	Den	_	den	P	PM:s-uc:--:----
+nu85	nu85	-	nu85	L	LW:----:--:----
+årige	årige	_	årig	A	AC:sdu#:--:p---
+henning	Henning	_	Henning	N	NP:siu#:--:----
+friis	Friis	_	Friis	N	NP:siu#:--:----
+var	var	_	være	V	VF:----:ta:----
+en	en	_	en	P	PI:s-uc:--:----
+af	af	_	af	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+danske	danske	_	dansk	A	AC:sdu#:--:p---
+velfærdssamfunds	velfærdssamfunds	_	velfærdssamfund	N	NC:sign:--:----
+arkitekter	arkitekter	.$	arkitekt	N	NC:piu#:--:----
+</s>
+<s id="2000-8-8">
+om	Om	_	om	T	T-:----:--:----
+sin	sin	_	sin	P	PO:s--c:--:-3ys
+status	status	_	status	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+ridder	ridder	_	ridder	N	NC:siuc:--:----
+fortæller	fortæller	_	fortælle	V	VF:----:sa:----
+paul	Paul	_	Paul	N	NP:siu#:--:----
+mccartney	McCartney	,_	McCartney	N	NP:siu#:--:----
+at	at	_	at	C	CS:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+meget	meget	_	megen	A	AC:siu§:--:p---
+stolt	stolt	_-_	stolt	A	AW:----:--:----
+selv	selv	_	selv	D	D-:----:--:u---
+om	om	_	om	C	CS:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+føler	føler	_	føle	V	VF:----:sa:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+som	som	_	som	U	US:----:--:----
+meget	meget	_	megen	A	AD:----:--:p---
+ordinær	ordinær	.$	ordinær	A	AC:siuc:--:p---
+</s>
+<s id="2000-8-9">
+scenariet	Scenariet	_	scenarie	N	NC:sdun:--:----
+for	for	_	for	T	T-:----:--:----
+øvelsen	øvelsen	_	øvelse	N	NC:sduc:--:----
+er	er	_	være	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+tænkt	tænkt	_	tænke	V	VT:siu#:t-:----
+krise	krise	_	krise	N	NC:siuc:--:----
+mellem	mellem	_	mellem	T	T-:----:--:----
+fiktive	fiktive	_	fiktiv	A	AC:p#u#:--:p---
+nationer	nationer	,_	nation	N	NC:piu#:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+fn	FN	_	FN	N	NP:siu#:--:----
+beslutter	beslutter	_	beslutte	V	VF:----:sa:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+gribe	gribe	_	gribe	V	VI:----:-a:----
+ind	ind	_	ind	D	D-:----:--:u---
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+hindre	hindre	_	hindre	V	VI:----:-a:----
+yderligere	yderligere	_	yderlig	A	AC:##u#:--:c---
+optrapning	optrapning	.$	optrapning	N	NC:siuc:--:----
+</s>
+<s id="2000-8-10">
+firmaet	Firmaet	_	firma	N	NC:sdun:--:----
+er	er	_	være	V	VF:----:sa:----
+lavet	lavet	_	lave	V	VT:siu#:t-:----
+med	med	_	med	T	T-:----:--:----
+støtte	støtte	_	støtte	N	NC:siuc:--:----
+fra	fra	_	fra	T	T-:----:--:----
+danidas	Danidas	_	DANIDA	N	NP:sig#:--:----
+virksomhed	virksomhed	-	virksomhed	N	NW:----:--:----
+til	til	-	til	D	DW:----:--:----
+virksomhedspulje	virksomhedspulje	,_	virksomhedspulje	N	NC:siuc:--:----
+der	der	_	der	U	US:----:--:----
+i	i	_	i	T	T-:----:--:----
+sydafrika	Sydafrika	_	Sydafrika	N	NP:siu#:--:----
+har	har	_	have	V	VF:----:sa:----
+til	til	_	til	T	T-:----:--:----
+formål	formål	_	formål	N	NC:siun:--:----
+at	at	_	at	U	UI:----:--:----
+få	få	_	få	V	VI:----:-a:----
+den	den	_	den	P	PM:s-uc:--:----
+marginaliserede	marginaliserede	,_	marginalisere	V	VP:sdu#:t-:----
+sorte	sorte	_	sort	A	AC:p#u#:--:p---
+og	og	_	og	C	CC:----:--:----
+farvede	farvede	_	farve	V	VF:----:ta:----
+befolkning	befolkning	_	befolkning	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+drive	drive	_	drive	V	VI:----:-a:----
+forretning	forretning	.$	forretning	N	NC:siuc:--:----
+</s>
+<s id="2000-8-11">
+men	Men	_	men	C	CC:----:--:----
+barnet	barnet	,_	barn	N	NC:sdun:--:----
+som	som	_	som	U	US:----:--:----
+får	får	_	få	V	VF:----:sa:----
+modermælk	modermælk	,_	modermælk	N	NC:siuc:--:----
+er	er	_	være	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+første	første	_	første	A	AC:§§u§:--:p---
+halvår	halvår	_	halvår	N	NC:siun:--:----
+bedre	bedre	_	god	A	AD:----:--:c---
+beskyttet	beskyttet	_	beskytte	V	VT:siu#:t-:----
+mod	mod	_	mod	T	T-:----:--:----
+infektionssygdomme	infektionssygdomme	,_	infektionssygdom	N	NC:piu#:--:----
+end	end	_	end	C	CS:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+barn	barn	,_	barn	N	NC:siun:--:----
+som	som	_	som	U	US:----:--:----
+får	får	_	få	V	VF:----:sa:----
+modermælkserstatning	modermælkserstatning	,'_	modermælkserstatning	N	NC:siuc:--:----
+siger	siger	_	sige	V	VF:----:sa:----
+kim	Kim	_	Kim	N	NP:siu#:--:----
+fleischer	Fleischer	_	Fleischer	N	NP:siu#:--:----
+michaelsen	Michaelsen	.$	Michaelsen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-12">
+det	Det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+godt	godt	,_	god	A	AC:siun:--:p---
+at	at	_	at	C	CS:----:--:----
+ungdommen	ungdommen	_	ungdom	N	NC:sduc:--:----
+blander	blander	_	blande	V	VF:----:sa:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+i	i	_	i	T	T-:----:--:----
+debatten	debatten	,_	debat	N	NC:sduc:--:----
+for	for	_	for	C	CC:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+skal	skal	_	skulle	V	VF:----:sa:----
+leve	leve	_	leve	V	VI:----:-a:----
+i	i	_	i	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+international	international	_	international	A	AC:siuc:--:p---
+verden	verden	,'_	verden	N	NC:siuc:--:----
+siger	siger	_	sige	V	VF:----:sa:----
+max	Max	_	Max	N	NP:siu#:--:----
+bæhring	Bæhring	.$	Bæhring	N	NP:siu#:--:----
+</s>
+<s id="2000-8-13">
+historien	Historien	_	historie	N	NC:sduc:--:----
+begynder	begynder	_	begynde	V	VF:----:sa:----
+med	med	_	med	T	T-:----:--:----
+et	et	'_	et	X	XY:----:--:----
+der	der	_	der	U	US:----:--:----
+var	var	_	være	V	VF:----:ta:----
+en	en	_	en	P	PI:s-uc:--:----
+gang	gang	',_	gang	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+fortsætter	fortsætter	_	fortsætte	V	VF:----:sa:----
+så	så	_	så	D	D-:----:--:u---
+kronologisk	kronologisk	_	kronologisk	A	AD:----:--:p---
+fremefter	fremefter	.$	fremefter	D	D-:----:--:u---
+</s>
+<s id="2000-8-14">
+_	_	'	_	X	XP:----:--:----
+amazonas	Amazonas	_	Amazonas	A	AC:##g#:--:c---
+skal	skal	_	skal	X	XY:----:--:----
+blive	blive	_	blive	X	XY:----:--:----
+et	et	_	et	X	XY:----:--:----
+sandt	sandt	_	sandt	X	XY:----:--:----
+eksperiment	eksperiment	_	eksperiment	X	XY:----:--:----
+for	for	_	for	X	XY:----:--:----
+bæredygtig	bæredygtig	_	bæredygtig	X	XY:----:--:----
+udvikling	udvikling	,'_	udvikling	X	XY:----:--:----
+erklærede	erklærede	_	erklærede	X	XY:----:--:----
+jose	Jose	_	Jose	X	XY:----:--:----
+seixas	Seixas	_	Seixas	A	AC:##g#:--:c---
+lourenco	Lourenco	,_	Lourenco	X	XY:----:--:----
+som	som	_	som	X	XY:----:--:----
+er	er	_	er	X	XY:----:--:----
+amazonas	Amazonas	-	Amazonas	A	AC:##g#:--:c---
+koordinator	koordinator	_	koordinator	X	XY:----:--:----
+i	i	_	i	X	XY:----:--:----
+brasiliens	Brasiliens	_	Brasiliens	X	XY:----:--:----
+miljøministerium	miljøministerium	.$	miljøministerium	X	XY:----:--:----
+</s>
+<s id="2000-8-15">
+stilling	Stilling	_	stilling	N	NC:siuc:--:----
+efter	efter	_	efter	T	T-:----:--:----
+5	5	._	5	L	LO:--u#:--:----
+runde	runde	:_	runde	N	NC:siuc:--:----
+</s>
+<s id="2000-8-16">
+_	_	'	_	X	XP:----:--:----
+værftsledelsen	Værftsledelsen	_	Værftsledelsen	X	XY:----:--:----
+er	er	_	er	X	XY:----:--:----
+åbenbart	åbenbart	_	åbenbart	X	XY:----:--:----
+i	i	_	i	X	XY:----:--:----
+gang	gang	_	gang	X	XY:----:--:----
+med	med	_	med	X	XY:----:--:----
+at	at	'_	at	X	XY:----:--:----
+stramme	stramme	_	stramme	X	XY:----:--:----
+den	den	'_	den	X	XY:----:--:----
+over	over	_	over	X	XY:----:--:----
+for	for	_	for	X	XY:----:--:----
+medarbejderne	medarbejderne	.$	medarbejderne	X	XY:----:--:----
+</s>
+<s id="2000-8-17">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+søger	søger	_	søge	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+90	90	'	90	L	LC:--u-:--:----
+ernes	ernes	_	@ernes	M	MN:pdg#:--:----
+etik	etik	-	etik	N	NC:siuc:--:----
+samfund	samfund	_	samfund	N	NC:piu#:--:----
+ind	ind	_	ind	D	D-:----:--:u---
+til	til	_	til	T	T-:----:--:----
+nogle	nogle	_	nogen	P	PI:p-u#:--:----
+nye	nye	_	ny	A	AC:p#u#:--:p---
+værdier	værdier	_	værdi	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+moralbegreber	moralbegreber	,_	moralbegreb	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+længere	længere	_	længere	D	D-:----:--:c---
+hænger	hænger	_	hænge	V	VF:----:sa:----
+sammen	sammen	_	sammen	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+politiske	politiske	_	politisk	A	AC:p#u#:--:p---
+ideologier	ideologier	_	ideologi	N	NC:piu#:--:----
+eller	eller	_	eller	C	CC:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+kristen	kristen	,_	kristen	A	AC:siuc:--:p---
+humanistisk	humanistisk	_	humanistisk	A	AC:siu§:--:p---
+opdragelse	opdragelse	_	opdragelse	N	NC:siuc:--:----
+men	men	_	men	C	CC:----:--:----
+med	med	_	med	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+kollektiv	kollektiv	_	kollektiv	A	AC:siuc:--:p---
+dårlig	dårlig	_	dårlig	A	AC:siuc:--:p---
+samvittighed	samvittighed	.$	samvittighed	N	NC:siuc:--:----
+</s>
+<s id="2000-8-18">
+der	Der	_	der	U	US:----:--:----
+er	er	_	være	V	VF:----:sa:----
+vedtaget	vedtaget	_	vedtage	V	VT:siu#:t-:----
+det	det	_	den	P	PM:s-un:--:----
+generelle	generelle	_	generel	A	AC:sdu#:--:p---
+program	program	_	program	N	NC:siun:--:----
+for	for	_	for	T	T-:----:--:----
+forebyggelse	forebyggelse	_	forebyggelse	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+sundhedsfremme	sundhedsfremme	_	sundhedsfremme	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+program	program	,_	program	N	NC:siun:--:----
+der	der	_	der	U	US:----:--:----
+skal	skal	_	skulle	V	VF:----:sa:----
+udvikle	udvikle	_	udvikle	V	VI:----:-a:----
+sundhedsinformationen	sundhedsinformationen	_	sundhedsinformation	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+eu	EU	.$	EU	N	NP:siu#:--:----
+</s>
+<s id="2000-8-19">
+teater	Teater	,_	teater	N	NC:siun:--:----
+da	da	_	da	C	CS:----:--:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+vendte	vendte	_	vende	V	VF:----:ta:----
+hjem	hjem	_	hjem	D	D-:----:--:u---
+som	som	_	som	U	US:----:--:----
+skuespilchef	skuespilchef	_	skuespilchef	N	NC:siuc:--:----
+efter	efter	_	efter	T	T-:----:--:----
+litten	Litten	_	Litten	N	NP:siu#:--:----
+hansen	Hansen	.$	Hansen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-20">
+bindegal	Bindegal	_	bindegal	A	AC:siuc:--:p---
+hamlet	Hamlet	.$	Hamlet	N	NP:siu#:--:----
+</s>
+<s id="2000-8-21">
+kasper	Kasper	_	Kasper	N	NP:siu#:--:----
+laugesens	Laugesens	_	Laugesens	N	NP:sig#:--:----
+opgave	opgave	_	opgave	N	NC:siuc:--:----
+var	var	_	være	V	VF:----:ta:----
+at	at	_	at	U	UI:----:--:----
+trænge	trænge	_	trænge	V	VI:----:-a:----
+ind	ind	_	ind	D	D-:----:--:u---
+og	og	_	og	C	CC:----:--:----
+finde	finde	_	finde	V	VI:----:-a:----
+ud	ud	_	ud	D	D-:----:--:u---
+af	af	,_	af	T	T-:----:--:----
+om	om	_	om	C	CS:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+farlige	farlige	_	farlig	A	AC:p#u#:--:p---
+kemikalier	kemikalier	_	kemikalie	N	NC:piu#:--:----
+på	på	_	på	T	T-:----:--:----
+værket	værket	_	værk	N	NC:sdun:--:----
+kunne	kunne	_	kunne	V	VF:----:ta:----
+true	true	_	true	V	VI:----:-a:----
+soldaternes	soldaternes	_	soldat	N	NC:pdg#:--:----
+sundhed	sundhed	.$	sundhed	N	NC:siuc:--:----
+</s>
+<s id="2000-8-22">
+her	Her	_	her	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+der	der	_	der	U	US:----:--:----
+journalister	journalister	_	journalist	N	NC:piu#:--:----
+overalt	overalt	,_	overalt	D	D-:----:--:u---
+og	og	_	og	C	CC:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+tænker	tænker	:_	tænke	V	VF:----:sa:----
+hold	hold	_	holde	V	VM:----:--:----
+kæft	kæft	,_	kæft	N	NC:siuc:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+det	det	_	den	P	PM:s-un:--:----
+vildt	vildt	.$	vildt	N	NC:siun:--:----
+</s>
+<s id="2000-8-23">
+tænker	Tænker	_	tænke	V	VF:----:sa:----
+igen	igen	:_	igen	D	D-:----:--:u---
+godt	godt	_	god	A	AD:----:--:p---
+det	det	_	det	P	PP:s-un:--:-3n-
+ikke	ikke	_	ikke	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+mig	mig	,_	jeg	P	PP:s-uc:--:-1#-
+og	og	_	og	C	CC:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+ved	ved	_	vide	V	VF:----:sa:----
+godt	godt	,_	god	A	AD:----:--:p---
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+slut	slut	_	slut	N	NC:§§u§:--:----
+for	for	_	for	T	T-:----:--:----
+dem	dem	_	de	P	PP:p-u#:--:-3n-
+nu	nu	.$	nu	D	D-:----:--:u---
+</s>
+<s id="2000-8-24">
+var	Var	_	være	V	VF:----:ta:----
+med	med	_	med	D	D-:----:--:u---
+under	under	_	under	T	T-:----:--:----
+stormen	stormen	_	storm	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+grosnij	Grosnij	,_	Grosnij	N	NP:siu#:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+hans	hans	_	hans	P	PO:#--#:--:-3ns
+division	division	_	division	N	NC:siuc:--:----
+mistede	mistede	_	miste	V	VF:----:ta:----
+halvdelen	halvdelen	_	halvdel	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+sine	sine	_	sin	P	PO:p--#:--:-3ys
+soldater	soldater	.$	soldat	N	NC:piu#:--:----
+</s>
+<s id="2000-8-25">
+kulturrådet	Kulturrådet	_	Kulturrådet	N	NP:siu#:--:----
+skal	skal	_	skulle	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+samarbejde	samarbejde	_	samarbejde	N	NC:siun:--:----
+med	med	_	med	T	T-:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+ligeledes	ligeledes	_	ligeledes	D	D-:----:--:u---
+nyetablerede	nyetablerede	_	nyetablere	V	VF:----:ta:----
+internationalt	Internationalt	_	international	A	AD:----:--:p---
+kultursekretariat	Kultursekretariat	_	Kultursekretariat	N	NP:siu#:--:----
+fremover	fremover	_	fremover	D	D-:----:--:u---
+finde	finde	_	finde	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+kulturelle	kulturelle	_	kulturel	A	AC:p#u#:--:p---
+fremstød	fremstød	,_	fremstød	N	NC:piu#:--:----
+der	der	_	der	U	US:----:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+åbne	åbne	_	åbne	V	VI:----:-a:----
+udlandets	udlandets	_	udland	N	NC:sdgn:--:----
+øjne	øjne	_	øje	N	NC:piu#:--:----
+for	for	_	for	T	T-:----:--:----
+cremen	cremen	_	creme	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+dansk	dansk	_	dansk	A	AC:siu§:--:p---
+kunst	kunst	.$	kunst	N	NC:siuc:--:----
+</s>
+<s id="2000-8-26">
+siden	Siden	_	siden	D	D-:----:--:u---
+1998	1998	_	1998	L	LC:--u-:--:----
+har	har	_	have	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+sammen	sammen	_	sammen	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+forfatteren	forfatteren	_	forfatter	N	NC:sduc:--:----
+christian	Christian	_	Christian	N	NP:siu#:--:----
+yde	Yde	_	yde	V	VI:----:-a:----
+frostholm	Frostholm	_	Frostholm	N	NP:siu#:--:----
+redigeret	redigeret	_	redigere	V	VT:siu#:t-:----
+og	og	_	og	C	CC:----:--:----
+designet	designet	_	designe	V	VT:siu#:t-:----
+borgen	Borgen	_	borg	N	NC:sduc:--:----
+insiteout	Insiteout	,_	Insiteout	N	NP:siu#:--:----
+et	et	_	en	P	PI:s-un:--:----
+eksperimenterende	eksperimenterende	_	eksperimentere	V	VP:##u#:s-:----
+website	website	_	website	X	XY:----:--:----
+for	for	_	for	T	T-:----:--:----
+ny	ny	_	ny	A	AC:siuc:--:p---
+lyrik	lyrik	_	lyrik	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+hvedekorn	Hvedekorn	_	hvedekorn	N	NC:siun:--:----
+under	under	_	under	T	T-:----:--:----
+borgens	Borgens	_	borg	N	NC:sdgc:--:----
+forlag	Forlag	.$	forlag	N	NC:siun:--:----
+</s>
+<s id="2000-8-27">
+gade	Gade	_	Gade	N	NP:siu#:--:----
+lavede	lavede	_	lave	V	VF:----:ta:----
+en	en	_	en	P	PI:s-uc:--:----
+del	del	_	del	N	NC:siuc:--:----
+fejl	fejl	_	fejl	N	NC:piu#:--:----
+undervejs	undervejs	,_	undervejs	D	D-:----:--:u---
+men	men	_	men	C	CC:----:--:----
+hans	hans	_	hans	P	PO:#--#:--:-3ns
+indsats	indsats	_	indsats	N	NC:siuc:--:----
+lignede	lignede	_	ligne	V	VF:----:ta:----
+en	en	_	en	P	PI:s-uc:--:----
+investering	investering	_	investering	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+herre	herre	_	herre	N	NC:siuc:--:----
+doublen	doublen	_	double	N	NC:sduc:--:----
+senere	senere	_	sen	A	AD:----:--:c---
+på	på	_	på	T	T-:----:--:----
+aftenen	aftenen	.$	aften	N	NC:sduc:--:----
+</s>
+<s id="2000-8-28">
+politikerne	Politikerne	_	politiker	N	NC:pdu#:--:----
+lovede	lovede	_	love	V	VF:----:ta:----
+bod	bod	_	bod	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+bedring	bedring	_	bedring	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+nye	nye	_	ny	A	AC:p#u#:--:p---
+regler	regler	_-_	huskeregel	N	NC:piu#:--:----
+uden	uden	_	uden	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+der	der	_	der	U	US:----:--:----
+dog	dog	_	dog	D	D-:----:--:u---
+skete	skete	_	ske	V	VF:----:ta:----
+ret	ret	_	ret	D	D-:----:--:u---
+meget	meget	.$	megen	A	AD:----:--:p---
+</s>
+<s id="2000-8-29">
+oven	oven	_	oven	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+fortvivlede	fortvivlede	_	fortvivlet	A	AC:sdu#:--:p---
+situation	situation	_	situation	N	NC:siuc:--:----
+strømmer	strømmer	_	strømme	V	VF:----:sa:----
+titusinder	titusinder	_	titusinder	N	NC:piu#:--:----
+af	af	_	af	T	T-:----:--:----
+flygtninge	flygtninge	_	flygtning	N	NC:piu#:--:----
+ind	ind	_	ind	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+congo	Congo	_	Congo	N	NP:siu#:--:----
+nabolandet	nabolandet	_	naboland	N	NC:sdun:--:----
+angola	Angola	,_	Angola	N	NP:siu#:--:----
+som	som	_	som	U	US:----:--:----
+også	også	_	også	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+hærget	hærget	_	hærge	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+borgerkrig	borgerkrig	.$	borgerkrig	N	NC:siuc:--:----
+</s>
+<s id="2000-8-30">
+gerda	Gerda	_	Gerda	N	NP:siu#:--:----
+west	West	_	West	N	NP:siu#:--:----
+andersen	Andersen	,_	Andersen	N	NP:siu#:--:----
+bogholder	bogholder	,_	bogholder	N	NC:siuc:--:----
+odense	Odense	,_	Odense	N	NP:siu#:--:----
+79	79	_	79	L	LC:--u-:--:----
+år	år	,_	år	N	NC:piu#:--:----
+arbejdede	arbejdede	_	arbejde	V	VF:----:ta:----
+i	i	_	i	T	T-:----:--:----
+mødrehjælpen	Mødrehjælpen	_	mødrehjælp	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+odense	Odense	_	Odense	N	NP:siu#:--:----
+i	i	_	i	T	T-:----:--:----
+mange	mange	_	mangen	A	AC:p#u#:--:p---
+år	år	_	år	N	NC:piu#:--:----
+efter	Efter	_	efter	T	T-:----:--:----
+pensioneringen	pensioneringen	_	pensionering	N	NC:sduc:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+engageret	engageret	_	engagere	V	VT:siu#:t-:----
+i	i	_	i	T	T-:----:--:----
+pensionisternes	Pensionisternes	_	pensionist	N	NC:pdg#:--:----
+hus	Hus	_	hus	N	NC:siun:--:----
+i	i	_	i	T	T-:----:--:----
+odense	Odense	_	Odense	N	NP:siu#:--:----
+samt	samt	_	samt	C	CC:----:--:----
+bl	bl	.	blandt	T	T-:----:--:----
+a	a	._	anden	P	PI:s-un:--:----
+sang	sang	_	sang	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+hans	Hans	_	Hans	N	NP:siu#:--:----
+tausens	Tausens	_	Tausens	N	NP:sig#:--:----
+kirkes	Kirkes	_	kirke	N	NC:sigc:--:----
+kor	kor	.$	kor	N	NC:siun:--:----
+</s>
+<s id="2000-8-31">
+forskerne	Forskerne	_	forsker	N	NC:pdu#:--:----
+sammenlignede	sammenlignede	_	sammenligne	V	VF:----:ta:----
+virkningen	virkningen	_	virkning	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+urtemedicinen	urtemedicinen	_	urtemedicin	N	NC:sduc:--:----
+med	med	_	med	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+uvirksomt	uvirksomt	_	uvirksom	A	AC:siun:--:p---
+placebomiddel	placebomiddel	_	placebomiddel	N	NC:siun:--:----
+på	på	_	på	T	T-:----:--:----
+86	86	_	86	L	LC:--u-:--:----
+kvinder	kvinder	_	kvinde	N	NC:piu#:--:----
+med	med	_	med	T	T-:----:--:----
+pms	PMS	.$	PMS	N	NP:siu#:--:----
+</s>
+<s id="2000-8-32">
+i	I	_	i	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+drama	drama	_	drama	N	NC:siun:--:----
+af	af	_	af	T	T-:----:--:----
+dimensioner	dimensioner	_	dimension	N	NC:piu#:--:----
+tabte	tabte	_	tabe	V	VF:----:ta:----
+viborg	Viborg	_	Viborg	N	NP:siu#:--:----
+på	på	_	på	T	T-:----:--:----
+hjemmebane	hjemmebane	_	hjemmebane	N	NC:siuc:--:----
+4	4	-	4	L	LC:--u-:--:----
+2	2	_	2	L	LC:--u-:--:----
+til	til	_	til	T	T-:----:--:----
+ob	OB	,_	OB	N	NP:siu#:--:----
+ab	AB	_	AB	N	NP:siu#:--:----
+tabte	tabte	_	tabe	V	VF:----:ta:----
+afgørende	afgørende	_	afgørende	A	AC:§§u§:--:p---
+terræn	terræn	_	terræn	N	NC:siun:--:----
+med	med	_	med	T	T-:----:--:----
+hjemmebanenederlaget	hjemmebanenederlaget	_	hjemmebanenederlag	N	NC:sdun:--:----
+på	på	_	på	T	T-:----:--:----
+2	2	-	2	L	LC:--u-:--:----
+0	0	_	0	L	LC:--u-:--:----
+mod	mod	_	mod	T	T-:----:--:----
+fc	FC	_	FC	N	NP:siu#:--:----
+københavn	København	,_	København	N	NP:siu#:--:----
+mens	mens	_	mens	C	CS:----:--:----
+lyngby	Lyngby	_-_	Lyngby	N	NW:----:--:----
+seks	seks	_	seks	L	LC:--u-:--:----
+dage	dage	_	dag	N	NC:piu#:--:----
+efter	efter	_	efter	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+have	have	_	have	V	VI:----:-a:----
+udspillet	udspillet	_	udspil	N	NC:sdun:--:----
+brøndby	Brøndby	_	Brøndby	N	NP:siu#:--:----
+på	på	_	på	T	T-:----:--:----
+vej	vej	_	vej	N	NC:siuc:--:----
+mod	mod	_	mod	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+sejr	sejr	_	sejr	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+3	3	-	3	L	LC:--u-:--:----
+0	0	_-_	0	L	LC:--u-:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+slået	slået	_	slå	V	VT:siu#:t-:----
+4	4	-	4	L	LC:--u-:--:----
+0	0	_	0	L	LC:--u-:--:----
+i	i	_	i	T	T-:----:--:----
+vejle	Vejle	.$	Vejle	N	NP:siu#:--:----
+</s>
+<s id="2000-8-33">
+over	Over	_	over	T	T-:----:--:----
+dem	dem	,_	de	P	PP:p-u#:--:-3n-
+der	der	_	der	U	US:----:--:----
+har	har	_	have	V	VF:----:sa:----
+ødelagt	ødelagt	_	ødelægge	V	VT:siu#:t-:----
+vores	vores	_	vores	X	XY:----:--:----
+dag	dag	.$	dag	N	NC:siuc:--:----
+</s>
+<s id="2000-8-34">
+ind	Ind	_	ind	D	D-:----:--:u---
+til	til	_	til	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+offentlige	offentlige	_	offentlig	A	AC:sdu#:--:p---
+sektor	sektor	,_	sektor	N	NC:siuc:--:----
+der	der	_	der	U	US:----:--:----
+bør	bør	_	burde	V	VF:----:sa:----
+droppe	droppe	_	droppe	V	VI:----:-a:----
+berøringsangsten	berøringsangsten	_	berøringsangst	N	NC:sduc:--:----
+over	over	_	over	D	D-:----:--:u---
+for	for	_	for	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+private	private	_	privat	A	AC:sdu#:--:p---
+sektor	sektor	_	sektor	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+satse	satse	_	satse	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+selv	selv	_	selv	D	D-:----:--:u---
+at	at	_	at	U	UI:----:--:----
+blive	blive	_	blive	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+eksportvare	eksportvare	.$	eksportvare	N	NC:siuc:--:----
+</s>
+<s id="2000-8-35">
+men	Men	_	Men	X	XY:----:--:----
+da	da	_	da	X	XY:----:--:----
+kurt	Kurt	_	Kurt	X	XY:----:--:----
+cobain	Cobain	_	Cobain	X	XY:----:--:----
+fyrede	fyrede	_	fyrede	X	XY:----:--:----
+op	op	_	op	X	XY:----:--:----
+under	under	_	under	X	XY:----:--:----
+det	det	_	det	X	XY:----:--:----
+mere	mere	_	mere	X	XY:----:--:----
+eller	eller	_	eller	X	XY:----:--:----
+mindre	mindre	_	mindre	X	XY:----:--:----
+medieskabte	medieskabte	_	medieskabte	X	XY:----:--:----
+modsætningsforhold	modsætningsforhold	_	modsætningsforhold	X	XY:----:--:----
+ved	ved	_	ved	X	XY:----:--:----
+at	at	_	at	X	XY:----:--:----
+beskylde	beskylde	_	beskylde	X	XY:----:--:----
+vedder	Vedder	_	Vedder	X	XY:----:--:----
+&	&	_	&	X	XY:----:--:----
+co	Co	._	Co	X	XY:----:--:----
+for	for	_	for	X	XY:----:--:----
+at	at	_	at	X	XY:----:--:----
+være	være	_	være	X	XY:----:--:----
+en	en	_	en	X	XY:----:--:----
+integreret	integreret	_	integreret	X	XY:----:--:----
+del	del	_	del	X	XY:----:--:----
+af	af	_	af	X	XY:----:--:----
+det	det	_	det	X	XY:----:--:----
+store	store	_	store	X	XY:----:--:----
+stygge	stygge	_	stygge	X	XY:----:--:----
+corporate	Corporate	_	Corporate	X	XY:----:--:----
+america	America	_[...]_	America	X	XY:----:--:----
+blev	blev	_	blev	X	XY:----:--:----
+det	det	_	det	X	XY:----:--:----
+begyndelsen	begyndelsen	_	begyndelsen	X	XY:----:--:----
+til	til	_	til	X	XY:----:--:----
+noget	noget	,_	noget	X	XY:----:--:----
+der	der	_	der	X	XY:----:--:----
+mest	mest	_	mest	X	XY:----:--:----
+af	af	_	af	X	XY:----:--:----
+alt	alt	_	alt	X	XY:----:--:----
+har	har	_	har	X	XY:----:--:----
+lignet	lignet	_	lignet	X	XY:----:--:----
+et	et	_	et	X	XY:----:--:----
+traume	traume	_	traume	X	XY:----:--:----
+for	for	_	for	X	XY:----:--:----
+pearl	Pearl	_	Pearl	X	XY:----:--:----
+jam	Jam	.$	Jam	X	XY:----:--:----
+</s>
+<s id="2000-8-36">
+byforum	Byforum	_	Byforum	N	NP:siu#:--:----
+skal	skal	_	skulle	V	VF:----:sa:----
+rådgive	rådgive	_	rådgive	V	VI:----:-a:----
+jytte	Jytte	_	Jytte	N	NP:siu#:--:----
+andersen	Andersen	,_	Andersen	N	NP:siu#:--:----
+udvikle	udvikle	_	udvikle	V	VI:----:-a:----
+og	og	_	og	C	CC:----:--:----
+konkretisere	konkretisere	_	konkretisere	V	VI:----:-a:----
+boligpolitikken	boligpolitikken	_	boligpolitik	N	NC:sduc:--:----
+og	og	_	og	C	CC:----:--:----
+bidrage	bidrage	_	bidrage	V	VI:----:-a:----
+til	til	_	til	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+offentlige	offentlige	_	offentlig	A	AC:sdu#:--:p---
+debat	debat	_	debat	N	NC:siuc:--:----
+om	om	_	om	T	T-:----:--:----
+byernes	byernes	_	by	N	NC:pdg#:--:----
+udvikling	udvikling	.$	udvikling	N	NC:siuc:--:----
+</s>
+<s id="2000-8-37">
+der	Der	_	der	U	US:----:--:----
+skal	skal	_	skulle	V	VF:----:sa:----
+mere	mere	_	megen	A	AC:##u#:--:c---
+danmarkshistorie	Danmarkshistorie	_	danmarkshistorie	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+historiebøgerne	historiebøgerne	,_	historiebog	N	NC:pdu#:--:----
+så	så	_	så	C	CS:----:--:----
+børnene	børnene	_	barn	N	NC:pdu#:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+betragter	betragter	_	betragte	V	VF:----:sa:----
+deres	deres	_	deres	P	PO:#--#:--:-3np
+forfædre	forfædre	,_	forfader	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+deres	deres	_	deres	X	XY:----:--:----
+lands	lands	_	land	N	NC:sign:--:----
+fjender	fjender	.$	fjende	N	NC:piu#:--:----
+</s>
+<s id="2000-8-38">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+træningsnarkoman	træningsnarkoman	,_	træningsnarkoman	N	NC:siuc:--:----
+så	så	_	så	C	CS:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+måtte	måtte	_	måtte	V	VF:----:ta:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+også	også	_	også	D	D-:----:--:u---
+blive	blive	.$	blive	V	VI:----:-a:----
+</s>
+<s id="2000-8-39">
+men	Men	_	men	C	CC:----:--:----
+nummeret	nummeret	_	nummer	N	NC:sdun:--:----
+var	var	_	være	V	VF:----:ta:----
+faktisk	faktisk	_	faktisk	A	AD:----:--:p---
+skrevet	skrevet	_	skrive	V	VT:siu#:t-:----
+for	for	_	for	T	T-:----:--:----
+mange	mange	_	mange	X	XY:----:--:----
+herrens	herrens	_	herre	N	NC:sdgc:--:----
+år	år	_	år	N	NC:siun:--:----
+siden	siden	_	siden	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+komponisten	komponisten	_	komponist	N	NC:sduc:--:----
+nicholas	Nicholas	_	Nicholas	N	NP:siu#:--:----
+roubanis	Roubanis	,_	Roubanis	N	NP:siu#:--:----
+som	som	_	som	U	US:----:--:----
+nu	nu	_	nu	D	D-:----:--:u---
+gøres	gøres	_	gøre	V	VF:----:sp:----
+ansvarlig	ansvarlig	_	ansvarlig	A	AC:siuc:--:p---
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	C	CS:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+californiske	californiske	_	californisk	A	AC:sdu#:--:p---
+surfguitar	surfguitar	_	surfguitar	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+virkeligheden	virkeligheden	_	virkelighed	N	NC:sduc:--:----
+har	har	_	have	V	VF:----:sa:----
+armenske	armenske	_	armensk	A	AC:p#u#:--:p---
+aner	aner	.$	ane	N	NC:piu#:--:----
+</s>
+<s id="2000-8-40">
+og	Og	_	og	C	CC:----:--:----
+senere	senere	_	sen	A	AD:----:--:c---
+op	op	_	op	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+lejligheden	lejligheden	.$	lejlighed	N	NC:sduc:--:----
+</s>
+<s id="2000-8-41">
+i	I	_	i	T	T-:----:--:----
+særdeleshed	særdeleshed	_	særdeleshed	N	NC:§§u§:--:----
+ønsker	ønsker	_	ønske	V	VF:----:sa:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+at	at	_	at	U	UI:----:--:----
+diskutere	diskutere	_	diskutere	V	VI:----:-a:----
+fortolkningen	fortolkningen	_	fortolkning	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+ordet	ordet	_"_	ord	N	NC:sdun:--:----
+repræsentativt	repræsentativt	_",_	repræsentativ	A	AC:siun:--:p---
+som	som	_	som	U	US:----:--:----
+fremgår	fremgår	_	fremgå	V	VF:----:sa:----
+af	af	_	af	T	T-:----:--:----
+punkt	punkt	_	punkt	N	NC:siun:--:----
+a	a	:_	anden	P	PI:s-un:--:----
+</s>
+<s id="2000-8-42">
+ups	Ups	,_	ups	I	I-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+lige	lige	_	lige	A	AC:§§u§:--:p---
+højre	højre	_	højre	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+formiddagspressen	formiddagspressen	,_	formiddagspresse	N	NC:sduc:--:----
+og	og	_	og	C	CC:----:--:----
+der	der	_	der	U	US:----:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+musestille	musestille	_	musestille	A	AD:----:--:p---
+ved	ved	_	ved	T	T-:----:--:----
+pressebordet	pressebordet	_	pressebord	N	NC:sdun:--:----
+i	i	_	i	T	T-:----:--:----
+empire	Empire	_	empire	N	NC:siuc:--:----
+stage	Stage	_	stage	V	VI:----:-a:----
+building	Building	_	building	X	XF:----:--:----
+på	på	_	på	T	T-:----:--:----
+nørrebro	Nørrebro	,_	Nørrebro	N	NP:siu#:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+prisfesten	prisfesten	_	prisfest	N	NC:sduc:--:----
+fandt	fandt	_	finde	V	VF:----:ta:----
+sted	sted	.$	sted	N	NC:siun:--:----
+</s>
+<s id="2000-8-43">
+kun	Kun	_	kun	D	D-:----:--:u---
+tre	tre	_	tre	L	LC:--u-:--:----
+er	er	_	være	V	VF:----:sa:----
+dømt	dømt	,_	dødsdømme	V	VT:siu#:t-:----
+og	og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+snart	snart	_	snart	D	D-:----:--:u---
+fem	fem	_	fem	L	LC:--u-:--:----
+år	år	_	år	N	NC:piu#:--:----
+siden	siden	_	siden	T	T-:----:--:----
+folkemordet	folkemordet	_	folkemord	N	NC:sdun:--:----
+brød	brød	_	bryde	V	VF:----:ta:----
+ud	ud	.$	ud	D	D-:----:--:u---
+</s>
+<s id="2000-8-44">
+den	Den	_	den	P	PM:s-uc:--:----
+52	52	-	52	L	LW:----:--:----
+årige	årige	_	årig	A	AC:sdu#:--:p---
+cand	cand	.	candidatus	X	XF:----:--:----
+polit	polit	-	politices	X	XF:----:--:----
+uddannede	uddannede	_	uddanne	V	VF:----:ta:----
+hugo	Hugo	_	Hugo	N	NP:siu#:--:----
+andersen	Andersen	_	Andersen	N	NP:siu#:--:----
+er	er	_	være	V	VF:----:sa:----
+vant	vant	_	vant	A	AC:siu§:--:p---
+til	til	_	til	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+være	være	_	være	V	VI:----:-a:----
+nummer	nummer	_	nummer	N	NC:siun:--:----
+to	to	_	to	L	LC:--u-:--:----
+i	i	_	i	T	T-:----:--:----
+store	store	_	stor	A	AC:p#u#:--:p---
+koncerner	koncerner	.$	koncern	N	NC:piu#:--:----
+</s>
+<s id="2000-8-45">
+da	Da	_	da	C	CS:----:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+har	har	_	have	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+meget	meget	_	megen	A	AD:----:--:p---
+stram	stram	_	stram	A	AC:siuc:--:p---
+annoncepolitik	annoncepolitik	,_	annoncepolitik	N	NC:siuc:--:----
+sætter	sætter	_	sætte	V	VF:----:sa:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+fokus	fokus	_	fokus	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+den	den	_-_	den	X	XY:----:--:----
+hvordan	hvordan	_	hvordan	D	D-:----:--:u---
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+kan	kan	_	kunne	V	VF:----:sa:----
+lempe	lempe	_	lempe	N	NC:siuc:--:----
+eller	eller	_	eller	C	CC:----:--:----
+ændre	ændre	_	ændre	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+trække	trække	_	trække	V	VI:----:-a:----
+annoncørerne	annoncørerne	_	annoncør	N	NC:pdu#:--:----
+til	til	.$	til	T	T-:----:--:----
+</s>
+<s id="2000-8-46">
+men	Men	_	men	C	CC:----:--:----
+du	du	_	du	P	PP:s-nc:--:-2n-
+skal	skal	_	skulle	V	VF:----:sa:----
+vide	vide	,_	vide	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+du	du	_	du	P	PP:s-nc:--:-2n-
+kan	kan	_	kunne	V	VF:----:sa:----
+regne	regne	_	regne	V	VI:----:-a:----
+med	med	_	med	T	T-:----:--:----
+min	min	_	minut	N	NC:piu#:--:----
+fulde	fulde	_	fuld	A	AC:sdu#:--:p---
+opbakning	opbakning	,_	opbakning	N	NC:siuc:--:----
+såfremt	såfremt	_	såfremt	C	CS:----:--:----
+du	du	_	du	P	PP:s-nc:--:-2n-
+alligevel	alligevel	_	alligevel	D	D-:----:--:u---
+skulle	skulle	_	skulle	V	VF:----:ta:----
+vælge	vælge	_	vælge	V	VI:----:-a:----
+denne	denne	_	denne	P	PM:s-uc:--:----
+løsning	løsning	.$	løsning	N	NC:siuc:--:----
+</s>
+<s id="2000-8-47">
+i	I	_	i	T	T-:----:--:----
+kærlighed	kærlighed	_	kærlighed	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+i	i	_	i	T	T-:----:--:----
+venskab	venskab	.$	venskab	N	NC:siun:--:----
+</s>
+<s id="2000-8-48">
+i	I	_	i	T	T-:----:--:----
+1954	1954	_	1954	L	LC:--u-:--:----
+mødte	mødte	_	møde	V	VF:----:ta:----
+diamantis	Diamantis	_	Diamantis	N	NP:siu#:--:----
+lawrence	Lawrence	_	Lawrence	N	NP:siu#:--:----
+durrell	Durrell	,_	Durrell	N	NP:siu#:--:----
+der	der	_	der	U	US:----:--:----
+boede	boede	_	bo	V	VF:----:ta:----
+i	i	_	i	T	T-:----:--:----
+bellapais	Bellapais	_	Bellapais	N	NP:siu#:--:----
+i	i	_	i	T	T-:----:--:----
+nærheden	nærheden	_	nærhed	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+kyrenia	Kyrenia	_	Kyrenia	N	NP:siu#:--:----
+på	på	_	på	T	T-:----:--:----
+nordkysten	nordkysten	_	nordkyst	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+cypern	Cypern	_	Cypern	N	NP:siu#:--:----
+fra	fra	_	fra	T	T-:----:--:----
+1953	1953	_	1953	L	LC:--u-:--:----
+til	til	_	til	T	T-:----:--:----
+1956	1956	.$	1956	L	LC:--u-:--:----
+</s>
+<s id="2000-8-49">
+du	Du	_	du	P	PP:s-nc:--:-2n-
+kan	kan	_	kunne	V	VF:----:sa:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+udpege	udpege	_	udpege	V	VI:----:-a:----
+en	én	_	en	P	PI:s-uc:--:----
+tendens	tendens	_	tendens	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+sige	sige	:_	sige	V	VI:----:-a:----
+</s>
+<s id="2000-8-50">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+kunne	kunne	_	kunne	V	VF:----:ta:----
+både	både	_	både	D	D-:----:--:u---
+høre	høre	_	høre	V	VI:----:-a:----
+det	det	_	det	P	PP:s-un:--:-3n-
+og	og	_	og	C	CC:----:--:----
+se	se	_	se	V	VI:----:-a:----
+det	det	.$	det	P	PP:s-un:--:-3n-
+</s>
+<s id="2000-8-51">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+mener	mener	,_	mene	V	VF:----:sa:----
+at	at	_	at	C	CS:----:--:----
+basis	BASIS	-	basis	N	NW:----:--:----
+gruppen	gruppen	_	gruppe	N	NC:sduc:--:----
+er	er	_	være	V	VF:----:sa:----
+et	et	_	en	P	PI:s-un:--:----
+tilbud	tilbud	_	tilbud	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+homoseksuelle	homoseksuelle	,_	homoseksuel	A	AC:p#u#:--:p---
+der	der	_	der	U	US:----:--:----
+er	er	_	være	V	VF:----:sa:----
+enig	enig	_	enig	A	AC:siuc:--:p---
+i	i	_	i	T	T-:----:--:----
+biblens	biblens	_	billedbibel	N	NC:sdgc:--:----
+ord	ord	_	ord	N	NC:siun:--:----
+om	om	,_	om	T	T-:----:--:----
+at	at	_	at	C	CS:----:--:----
+sex	sex	_	sex	N	NC:siuc:--:----
+hører	hører	_	høre	V	VF:----:sa:----
+til	til	_	til	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+ægteskabet	ægteskabet	_	ægteskab	N	NC:sdun:--:----
+mellem	mellem	_	mellem	T	T-:----:--:----
+mand	mand	_	mand	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+kvinde	kvinde	,_	kvinde	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+som	som	_	som	U	US:----:--:----
+derfor	derfor	_	derfor	D	D-:----:--:u---
+ønsker	ønsker	_	ønske	V	VF:----:sa:----
+at	at	_	at	U	UI:----:--:----
+ændre	ændre	_	ændre	V	VI:----:-a:----
+deres	deres	_	deres	P	PO:#--#:--:-3np
+seksuelle	seksuelle	_	seksuel	A	AC:p#u#:--:p---
+vaner	vaner	.$	van	N	NC:piu#:--:----
+</s>
+<s id="2000-8-52">
+der	Dér	_	der	D	D-:----:--:u---
+kan	kan	_	kunne	V	VF:----:sa:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+få	få	_	få	V	VI:----:-a:----
+oprejsning	oprejsning	_	oprejsning	N	NC:siuc:--:----
+for	for	_	for	T	T-:----:--:----
+min	min	_	minut	N	NC:piu#:--:----
+beslutningsangst	beslutningsangst	_",_	beslutningsangst	N	NC:siuc:--:----
+siger	siger	_	sige	V	VF:----:sa:----
+thomas	Thomas	_	Thomas	N	NP:siu#:--:----
+vinterberg	Vinterberg	.$	Vinterberg	N	NP:siu#:--:----
+</s>
+<s id="2000-8-53">
+jeg	Jeg	_	jeg	P	PP:s-nc:--:-1n-
+sank	sank	_	synke	V	VF:----:ta:----
+engang	engang	.$	engang	D	D-:----:--:u---
+</s>
+<s id="2000-8-54">
+politisk	Politisk	_	politisk	A	AD:----:--:p---
+føler	føler	_	føle	V	VF:----:sa:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+mig	mig	_	jeg	P	PP:s-uc:--:-1#-
+meget	meget	_	megen	A	AD:----:--:p---
+dansk	dansk	_	dansk	A	AC:siu§:--:p---
+i	i	_	i	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+europæiske	europæiske	_	europæisk	A	AC:p#u#:--:p---
+sammenhænge	sammenhænge	.$	sammenhæng	N	NC:piu#:--:----
+</s>
+<s id="2000-8-55">
+tallene	Tallene	_	tal	N	NC:pdu#:--:----
+fra	fra	_	fra	T	T-:----:--:----
+unibank	Unibank	,_	Unibank	N	NP:siu#:--:----
+der	der	_	der	U	US:----:--:----
+har	har	_	have	V	VF:----:sa:----
+været	været	_	være	V	VT:siu#:t-:----
+fremme	fremme	_	fremme	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+tilbuddet	tilbuddet	_	tilbud	N	NC:sdun:--:----
+fra	fra	_	fra	T	T-:----:--:----
+årets	årets	_	år	N	NC:sdgn:--:----
+start	start	,_	start	N	NC:siuc:--:----
+viser	viser	,_	vise	V	VF:----:sa:----
+at	at	_	at	C	CS:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+tilsyneladende	tilsyneladende	_	tilsyneladende	A	AD:----:--:p---
+er	er	_	være	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+god	god	_	god	A	AC:siuc:--:p---
+forretning	forretning	_	forretning	N	NC:siuc:--:----
+at	at	_	at	U	UI:----:--:----
+investere	investere	_	investere	V	VI:----:-a:----
+børneopsparingen	børneopsparingen	_	børneopsparing	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+puljer	puljer	.$	pulje	N	NC:piu#:--:----
+</s>
+<s id="2000-8-56">
+de	De	_	de	P	PP:p-n#:--:-3n-
+kan	kan	_	kunne	V	VF:----:sa:----
+fortolkes	fortolkes	_	fortolke	V	VI:----:-p:----
+på	på	_	på	T	T-:----:--:----
+mange	mange	_	mangen	A	AC:p#u#:--:p---
+måder	måder	_	måde	N	NC:piu#:--:----
+af	af	_	af	T	T-:----:--:----
+instruktører	instruktører	_	instruktør	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+skuespillere	skuespillere	,_	skuespiller	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+flere	flere	_	mange	A	AC:##u#:--:c---
+gange	gange	_	gang	N	NC:piu#:--:----
+har	har	_	have	V	VF:----:sa:----
+fået	fået	_	få	V	VT:siu#:t-:----
+mere	mere	_	megen	A	AD:----:--:c---
+ud	ud	_	ud	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+mine	mine	_	min	P	PO:p--#:--:-1ns
+tekster	tekster	,_	tekst	N	NC:piu#:--:----
+end	end	_	end	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+selv	selv	_	selv	P	PM:#-u#:--:----
+kunne	kunne	_	kunne	V	VF:----:ta:----
+se	se	_-_	se	V	VI:----:-a:----
+og	og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+naturligvis	naturligvis	_	naturligvis	D	D-:----:--:u---
+dejligt	dejligt	.$	dejlig	A	AC:siun:--:p---
+</s>
+<s id="2000-8-57">
+poul	Poul	_	Poul	N	NP:siu#:--:----
+erik	Erik	_	Erik	N	NP:siu#:--:----
+pyndt	Pyndt	,_	Pyndt	N	NP:siu#:--:----
+roskilde	Roskilde	,_	Roskilde	N	NP:siu#:--:----
+57	57	,_	57	L	LC:--u-:--:----
+scenograf	scenograf	_	scenograf	N	NC:siuc:--:----
+nina	Nina	_	Nina	N	NP:siu#:--:----
+schiøttz	Schiøttz	,_	Schiøttz	N	NP:siu#:--:----
+københavn	København	,_	København	N	NP:siu#:--:----
+57	57	,_	57	L	LC:--u-:--:----
+korrespondent	korrespondent	,_	korrespondent	N	NC:siuc:--:----
+journalist	journalist	_	journalist	N	NC:siuc:--:----
+tyge	Tyge	_	Tyge	N	NP:siu#:--:----
+pedersen	Pedersen	,_	Pedersen	N	NP:siu#:--:----
+55	55	,_	55	L	LC:--u-:--:----
+universitetslektor	universitetslektor	,_	universitetslektor	N	NC:siuc:--:----
+mag	mag	.	mag	N	NC:siuc:--:----
+art	art	._	art	N	NC:siuc:--:----
+</s>
+<s id="2000-8-58">
+ole	Ole	_	Ole	N	NP:siu#:--:----
+bladt	Bladt	_	Bladt	N	NP:siu#:--:----
+hansen	Hansen	,_	Hansen	N	NP:siu#:--:----
+36	36	-	36	L	LC:--u-:--:----
+årig	årig	_	årig	A	AC:siuc:--:p---
+miljøchef	miljøchef	_	miljøchef	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+esbjerg	Esbjerg	,_	Esbjerg	N	NP:siu#:--:----
+er	er	_	være	V	VF:----:sa:----
+udnævnt	udnævnt	_	udnævne	V	VT:siu#:t-:----
+til	til	_	til	T	T-:----:--:----
+stadsingeniør	stadsingeniør	_	stadsingeniør	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+tønder	Tønder	_	Tønder	N	NP:siu#:--:----
+kommune	Kommune	,_	kommune	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+også	også	_	også	D	D-:----:--:u---
+har	har	_	have	V	VF:----:sa:----
+fået	fået	_	få	V	VT:siu#:t-:----
+en	en	_	en	P	PI:s-uc:--:----
+ny	ny	_	ny	A	AC:siuc:--:p---
+leder	leder	_	leder	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+skole	skole	_	skole	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+kulturforvaltningen	kulturforvaltningen	.$	kulturforvaltning	N	NC:sduc:--:----
+</s>
+<s id="2000-8-59">
+temaet	Temaet	_	tema	N	NC:sdun:--:----
+er	er	_	være	V	VF:----:sa:----
+derimod	derimod	_	derimod	D	D-:----:--:u---
+selve	selve	_	selve	A	AD:----:--:p---
+magtens	magtens	_	magt	N	NC:sdgc:--:----
+væsen	væsen	,_	væsen	N	NC:siun:--:----
+det	det	_	den	P	PM:s-un:--:----
+politiske	politiske	_	politisk	A	AC:sdu#:--:p---
+livs	livs	_	liv	N	NC:sign:--:----
+former	former	_	form	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+professionalisering	professionalisering	_	professionalisering	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+politik	politik	_	politik	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+politisk	politisk	_	politisk	A	AC:siu§:--:p---
+kommunikation	kommunikation	,_	kommunikation	N	NC:siuc:--:----
+der	der	_	der	U	US:----:--:----
+har	har	_	have	V	VF:----:sa:----
+præget	præget	_	præge	V	VT:siu#:t-:----
+udviklingen	udviklingen	_	udvikling	N	NC:sduc:--:----
+de	de	_	den	P	PM:p-u#:--:----
+sidste	sidste	_	sidste	A	AC:§§u§:--:p---
+årtier	årtier	.$	årti	N	NC:piu#:--:----
+</s>
+<s id="2000-8-60">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+analyserer	analyserer	_	analysere	V	VF:----:sa:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+vore	vore	_	vore	X	XY:----:--:----
+erfaringer	erfaringer	_	erfaring	N	NC:piu#:--:----
+med	med	_	med	T	T-:----:--:----
+folkeafstemninger	folkeafstemninger	_	folkeafstemning	N	NC:piu#:--:----
+om	om	_	om	T	T-:----:--:----
+eu	EU	,_	EU	N	NP:siu#:--:----
+men	men	_	men	C	CC:----:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+vel	vel	_	vel	D	D-:----:--:u---
+vanskeligt	vanskeligt	_	vanskelig	A	AD:----:--:p---
+mene	mene	,_	mene	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+repræsenterer	repræsenterer	_	repræsentere	V	VF:----:sa:----
+et	et	_	en	P	PI:s-un:--:----
+mønster	mønster	_	mønster	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+efterfølgelse	efterfølgelse	.$	efterfølgelse	N	NC:siuc:--:----
+</s>
+<s id="2000-8-61">
+nye	Nye	_	ny	A	AC:p#u#:--:p---
+målinger	målinger	_	måling	N	NC:piu#:--:----
+ville	ville	_	ville	V	VF:----:ta:----
+nok	nok	_	nok	D	D-:----:--:u---
+vise	vise	_	vise	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+vandtemperatur	vandtemperatur	_	vandtemperatur	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+1	1	.	1	L	LC:--u-:--:----
+600	600	_	600	L	LC:--u-:--:----
+meters	meters	_	meter	N	NC:pig#:--:----
+dybde	dybde	_	dybde	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+cirka	cirka	_	cirka	D	D-:----:--:u---
+fem	fem	_	fem	L	LC:--u-:--:----
+grader	grader	,_	grad	N	NC:piu#:--:----
+så	så	_	så	C	CS:----:--:----
+enten	enten	_	enten	N	NP:siu#:--:----
+har	har	_	have	V	VF:----:sa:----
+kaptajn	kaptajn	_	kaptajn	N	NC:siuc:--:----
+ellis	Ellis	_	Ellis	N	NP:siu#:--:----
+undervurderet	undervurderet	_	undervurdere	V	VT:siu#:t-:----
+opvarmningen	opvarmningen	,_	opvarmning	N	NC:sduc:--:----
+eller	eller	_	eller	C	CC:----:--:----
+også	også	_	også	D	D-:----:--:u---
+har	har	_	have	V	VF:----:sa:----
+ventilerne	ventilerne	_	ventil	N	NC:pdu#:--:----
+måske	måske	_	måske	D	D-:----:--:u---
+ikke	ikke	_	ikke	D	D-:----:--:u---
+lukket	lukket	_	lukke	V	VT:siu#:t-:----
+helt	helt	_	hel	A	AD:----:--:p---
+tæt	tæt	,_	tæt	A	AD:----:--:p---
+således	således	_	således	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+kolde	kolde	_	kold	A	AC:sdu#:--:p---
+dybvand	dybvand	_	dybvand	N	NC:siun:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+blandet	blandet	_	blande	V	VT:siu#:t-:----
+med	med	_	med	T	T-:----:--:----
+varmere	varmere	_	varm	A	AC:##u#:--:c---
+vand	vand	_	vand	N	NC:siun:--:----
+under	under	_	under	T	T-:----:--:----
+opstigningen	opstigningen	.$	opstigning	N	NC:sduc:--:----
+</s>
+<s id="2000-8-62">
+nu	Nu	_	nu	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+der	der	_	der	U	US:----:--:----
+jo	jo	_	jo	D	D-:----:--:u---
+nogen	nogen	_	nogen	P	PI:s-uc:--:----
+tid	tid	_	tid	N	NC:siuc:--:----
+til	til	.$	til	T	T-:----:--:----
+</s>
+<s id="2000-8-63">
+man	Man	_	man	P	PI:#-uc:--:----
+skal	skal	_	skulle	V	VF:----:sa:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+have	have	_	have	V	VI:----:-a:----
+surfet	surfet	_	surfe	V	VT:siu#:t-:----
+længe	længe	_	længe	D	D-:----:--:u---
+på	på	_	på	T	T-:----:--:----
+nettet	Nettet	,_	net	N	NC:sdun:--:----
+før	før	_	før	C	CS:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+finder	finder	_	finde	V	VF:----:sa:----
+reklamer	reklamer	,_	reklame	N	NC:piu#:--:----
+der	der	_	der	U	US:----:--:----
+tilbyder	tilbyder	_	tilbyde	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+alle	alle	_	al	P	PI:p-u#:--:----
+mulige	mulige	_	mulig	A	AC:p#u#:--:p---
+virtuelle	virtuelle	_	virtuel	A	AC:p#u#:--:p---
+goder	goder	,_	gode	N	NC:piu#:--:----
+for	for	_	for	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+ringe	ringe	_	ringe	A	AC:§§u§:--:p---
+pris	pris	,_	pris	N	NC:siuc:--:----
+naturligvis	naturligvis	.$	naturligvis	D	D-:----:--:u---
+</s>
+<s id="2000-8-64">
+fri	Fri	_	fri	A	AC:siuc:--:p---
+til	til	_	til	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+søge	søge	_	søge	V	VI:----:-a:----
+rødder	rødder	_	rod	N	NC:piu#:--:----
+og	Og	_	og	C	CC:----:--:----
+her	hér	_	her	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+også	også	_	også	D	D-:----:--:u---
+en	en	_	en	P	PI:s-uc:--:----
+motorhjelm	motorhjelm	,_	motorhjelm	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+radisernes	Radisernes	_	radise	N	NC:pdg#:--:----
+nuser	Nuser	_	Nuser	N	NP:siu#:--:----
+sikkert	sikkert	_	sikker	A	AD:----:--:p---
+ville	ville	_	ville	V	VF:----:ta:----
+give	give	_	give	V	VI:----:-a:----
+meget	meget	_	megen	A	AD:----:--:p---
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+have	have	_	have	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+sit	sit	_	sin	P	PO:s--n:--:-3ys
+hundehoved	hundehoved	_	hundehoved	N	NC:siun:--:----
+i	i	_	i	T	T-:----:--:----
+rollen	rollen	_	rolle	N	NC:sduc:--:----
+som	som	_	som	U	US:----:--:----
+den	Den	_	den	P	PM:s-uc:--:----
+røde	Røde	_	rød	A	AC:sdu#:--:p---
+baron	Baron	.$	baron	N	NC:siuc:--:----
+</s>
+<s id="2000-8-65">
+derfor	Derfor	_	derfor	D	D-:----:--:u---
+får	får	_	få	V	VF:----:sa:----
+man	man	_	man	P	PI:#-uc:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+point	point	_	point	N	NC:siun:--:----
+ved	ved	_	ved	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+spille	spille	_	spille	V	VI:----:-a:----
+defensivt	defensivt	,_	defensiv	A	AC:siun:--:p---
+og	og	_	og	C	CC:----:--:----
+derfor	derfor	_	derfor	D	D-:----:--:u---
+spillede	spillede	_	spille	V	VF:----:ta:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+friskt	friskt	_	friskt	A	AD:----:--:p---
+til	til	.$	til	T	T-:----:--:----
+</s>
+<s id="2000-8-66">
+det	Det	_	det	P	PP:s-un:--:-3n-
+kan	kan	_	kunne	V	VF:----:sa:----
+blive	blive	_	blive	V	VI:----:-a:----
+østrigs	Østrigs	_	Østrig	N	NP:sig#:--:----
+konstitutionelle	konstitutionelle	_	konstitutionel	A	AC:sdu#:--:p---
+problem	problem	,_	problem	N	NC:siun:--:----
+hvis	hvis	_	hvis	C	CS:----:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+vælgerne	vælgerne	_	vælger	N	NC:pdu#:--:----
+gennemtvinger	gennemtvinger	_	gennemtvinge	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+i	i	_	i	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+mindste	mindste	_	lille	A	AC:§du§:--:s---
+åndelig	åndelig	_	åndelig	A	AC:siuc:--:p---
+valgreform	valgreform	,_	valgreform	N	NC:siuc:--:----
+så	så	_	så	C	CS:----:--:----
+demokratiet	demokratiet	_	demokrati	N	NC:sdun:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+komme	komme	_	komme	V	VI:----:-a:----
+til	til	_	til	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+virke	virke	_	virke	V	VI:----:-a:----
+med	med	_	med	T	T-:----:--:----
+sin	sin	_	sin	P	PO:s--c:--:-3ys
+naturlige	naturlige	_	naturlig	A	AC:sdu#:--:p---
+dynamik	dynamik	.$	dynamik	N	NC:siuc:--:----
+</s>
+<s id="2000-8-67">
+schweiziske	Schweiziske	_	schweizisk	A	AC:p#u#:--:p---
+bank	bank	_	bank	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+regeringskilder	regeringskilder	_	regeringskilde	N	NC:piu#:--:----
+har	har	_	have	V	VF:----:sa:----
+altid	altid	_	altid	D	D-:----:--:u---
+benægtet	benægtet	,_	benægte	V	VT:siu#:t-:----
+at	at	_	at	C	CS:----:--:----
+guldet	guldet	_	guld	N	NC:sdun:--:----
+skulle	skulle	_	skulle	V	VF:----:ta:----
+være	være	_	være	V	VI:----:-a:----
+bragt	bragt	_	bringe	V	VT:siu#:t-:----
+til	til	_	til	T	T-:----:--:----
+schweiz	Schweiz	.$	Schweiz	N	NP:siu#:--:----
+</s>
+<s id="2000-8-68">
+vælgerne	Vælgerne	_	vælger	N	NC:pdu#:--:----
+belønner	belønner	_	belønne	V	VF:----:sa:----
+ærlighed	ærlighed	_	ærlighed	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+livserfaring	livserfaring	.$	livserfaring	N	NC:siuc:--:----
+</s>
+<s id="2000-8-69">
+hjemkomsten	Hjemkomsten	_	hjemkomst	N	NC:sduc:--:----
+til	til	_	til	T	T-:----:--:----
+danmark	Danmark	_	Danmark	N	NP:siu#:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+dog	dog	_	dog	D	D-:----:--:u---
+mere	mere	_	megen	A	AD:----:--:c---
+brutal	brutal	,_	brutal	A	AC:siuc:--:p---
+end	end	_	end	C	CS:----:--:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+havde	havde	_	have	V	VF:----:ta:----
+regnet	regnet	_	regne	V	VT:siu#:t-:----
+med	med	.$	med	T	T-:----:--:----
+</s>
+<s id="2000-8-70">
+i	I	_	i	T	T-:----:--:----
+kirkehistoriens	kirkehistoriens	_	kirkehistorie	N	NC:sdgc:--:----
+lange	lange	_	lang	A	AC:sdu#:--:p---
+løb	løb	_	løb	N	NC:siun:--:----
+har	har	_	have	V	VF:----:sa:----
+glødende	glødende	_	gløde	V	VP:##u#:s-:----
+kristne	kristne	_	kristen	A	AC:p#u#:--:p---
+mange	mange	_	mangen	A	AC:p#u#:--:p---
+gange	gange	_	gang	N	NC:piu#:--:----
+villet	villet	_	ville	V	VT:siu#:t-:----
+oprette	oprette	_	opret	A	AC:p#u#:--:p---
+ukrudtsfri	ukrudtsfri	_	ukrudtsfri	A	AC:p#u#:--:p---
+reservater	reservater	.$	reservat	N	NC:piu#:--:----
+</s>
+<s id="2000-8-71">
+det	Det	_	den	P	PM:s-un:--:----
+danske	danske	_	dansk	A	AC:sdu#:--:p---
+mindretal	mindretal	_	mindretal	N	NC:siun:--:----
+og	og	_	og	C	CC:----:--:----
+dets	dets	_	dets	P	PO:#--#:--:-3ns
+mange	mange	_	mangen	A	AC:p#u#:--:p---
+foreninger	foreninger	_	forening	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+institutioner	institutioner	_	institution	N	NC:piu#:--:----
+nyder	nyder	_	nyde	V	VF:----:sa:----
+her	her	_	her	D	D-:----:--:u---
+godt	godt	_	god	A	AD:----:--:p---
+af	af	_	af	T	T-:----:--:----
+hans	hans	_	hans	P	PO:#--#:--:-3ns
+venlighed	venlighed	_	venlighed	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+hjælpsomhed	hjælpsomhed	_	hjælpsomhed	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+løbende	løbende	_	løbende	A	AC:§§u§:--:p---
+kontakt	kontakt	,_	kontakt	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+bl	bl	.	blandt	T	T-:----:--:----
+a	a	._	anden	P	PI:s-un:--:----
+omfatter	omfatter	_	omfatte	V	VF:----:sa:----
+mange	mange	_	mangen	A	AC:p#u#:--:p---
+foredrag	foredrag	.$	foredrag	N	NC:piu#:--:----
+</s>
+<s id="2000-8-72">
+diplomater	Diplomater	_	diplomat	N	NC:piu#:--:----
+fra	fra	_	fra	T	T-:----:--:----
+frankrig	Frankrig	_	Frankrig	N	NP:siu#:--:----
+og	og	_	og	C	CC:----:--:----
+belgien	Belgien	_	Belgien	N	NP:siu#:--:----
+boykottede	boykottede	_	boykotte	V	VF:----:ta:----
+torsdag	torsdag	_	torsdag	N	NC:siuc:--:----
+en	en	_	en	P	PI:s-uc:--:----
+tale	tale	_	tale	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+østrigs	Østrigs	_	Østrig	N	NP:sig#:--:----
+nye	nye	_	ny	A	AC:sdu#:--:p---
+udenrigsminister	udenrigsminister	,_	udenrigsminister	N	NC:siuc:--:----
+benita	Benita	_	Benita	N	NP:siu#:--:----
+ferrero	Ferrero	-	Ferrero	N	NP:siu#:--:----
+waldner	Waldner	,_	Waldner	N	NP:siu#:--:----
+da	da	_	da	C	CS:----:--:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+for	for	_	for	T	T-:----:--:----
+første	første	_	første	A	AC:§§u§:--:p---
+gang	gang	_	gang	N	NC:siuc:--:----
+mødte	mødte	_	møde	V	VF:----:ta:----
+op	op	_	op	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+permanente	permanente	_	permanent	A	AC:sdu#:--:p---
+osce	OSCE	-	OSCE	N	NP:siu#:--:----
+råd	råd	,_	råd	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+østrigerne	østrigerne	_	østriger	N	NC:pdu#:--:----
+fik	fik	_	få	V	VF:----:ta:----
+formandsskabet	formandsskabet	_	formandsskabet	N	NC:sdun:--:----
+for	for	_	for	T	T-:----:--:----
+i	i	_	i	T	T-:----:--:----
+januar	januar	.$	januar	N	NC:siuc:--:----
+</s>
+<s id="2000-8-73">
+men	Men	_	men	C	CC:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+havde	havde	_	have	V	VF:----:ta:----
+det	det	_	det	P	PP:s-un:--:-3n-
+nogenlunde	nogenlunde	,_	nogenlunde	A	AD:----:--:p---
+så	så	_	så	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+valgte	valgte	_	vælge	V	VF:----:ta:----
+at	at	_	at	U	UI:----:--:----
+spille	spille	,_	spille	V	VI:----:-a:----
+men	men	_	men	C	CC:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+kunne	kunne	_	kunne	V	VF:----:ta:----
+godt	godt	_	god	A	AD:----:--:p---
+mærke	mærke	,_	mærke	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+sygdommen	sygdommen	_	sygdom	N	NC:sduc:--:----
+havde	havde	_	have	V	VF:----:ta:----
+taget	taget	_	tage	V	VT:siu#:t-:----
+på	på	_	på	T	T-:----:--:----
+kræfterne	kræfterne	.$	kraft	N	NC:pdu#:--:----
+</s>
+<s id="2000-8-74">
+man	Man	_	man	P	PI:#-uc:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+leje	leje	_	leje	V	VI:----:-a:----
+pragtvillaer	pragtvillaer	_	pragtvilla	N	NC:piu#:--:----
+forholdsvis	forholdsvis	_	forholdsvis	D	D-:----:--:u---
+rimeligt	rimeligt	_	rimelig	A	AD:----:--:p---
+ofte	ofte	_	ofte	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+hushjælp	hushjælp	_	hushjælp	N	NC:siuc:--:----
+inkluderet	inkluderet	_	inkludere	V	VT:siu#:t-:----
+i	i	_	i	T	T-:----:--:----
+prisen	prisen	_	pris	N	NC:sduc:--:----
+der	der	_	der	U	US:----:--:----
+er	er	_	være	V	VF:----:sa:----
+lejligheder	lejligheder	,_	lejlighed	N	NC:piu#:--:----
+pensionater	pensionater	,_	pensionat	N	NC:piu#:--:----
+små	små	_	lille	A	AC:p#u#:--:p---
+hoteller	hoteller	,_	hotel	N	NC:piu#:--:----
+store	store	_	stor	A	AC:p#u#:--:p---
+luksushoteller	luksushoteller	_	luksushotel	N	NC:piu#:--:----
+osv	osv	.$	osv	D	D-:----:--:u---
+</s>
+<s id="2000-8-75">
+i	I	_	i	T	T-:----:--:----
+dag	dag	_	dag	N	NC:siuc:--:----
+forkæler	forkæler	_	forkæle	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+de	de	_	de	N	NP:siu#:--:----
+ansatte	ansatte	_	ansætte	V	VF:----:ta:----
+på	på	_	på	T	T-:----:--:----
+nykredit	Nykredit	_	Nykredit	N	NP:siu#:--:----
+i	i	_	i	T	T-:----:--:----
+aalborg	Aalborg	,_	Aalborg	N	NP:siu#:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+han	han	_	han	P	PP:s-nc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+kantinekok	kantinekok	_	kantinekok	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+fjerde	fjerde	_	fire	L	LO:--u#:--:----
+år	år	.$	år	N	NC:siun:--:----
+</s>
+<s id="2000-8-76">
+det	Det	_	det	P	PP:s-un:--:-3n-
+vil	vil	_	ville	V	VF:----:sa:----
+sige	sige	_	sige	V	VI:----:-a:----
+folk	folk	,_	folk	N	NC:piu#:--:----
+der	der	_	der	U	US:----:--:----
+forstår	forstår	_	forstå	V	VF:----:sa:----
+at	at	_	at	U	UI:----:--:----
+samarbejde	samarbejde	,_	samarbejde	V	VI:----:-a:----
+forstår	forstår	_	forstå	V	VF:----:sa:----
+kolleger	kolleger	_	kollega	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+indgå	indgå	_	indgå	V	VI:----:-a:----
+i	i	_	i	T	T-:----:--:----
+større	større	_	stor	A	AC:##u#:--:c---
+grupper	grupper	_",_	gruppe	N	NC:piu#:--:----
+siger	siger	_	sige	V	VF:----:sa:----
+rolf	Rolf	_	Rolf	N	NP:siu#:--:----
+jensen	Jensen	.$	Jensen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-77">
+kathrine	Kathrine	_	Kathrine	N	NP:siu#:--:----
+lilleør	Lilleør	_	Lilleør	N	NP:siu#:--:----
+fokuserer	fokuserer	_	fokusere	V	VF:----:sa:----
+på	på	_	på	T	T-:----:--:----
+kristus	kristus	-	kristus	N	NW:----:--:----
+skikkelsens	skikkelsens	_	skikkelse	N	NC:sdgc:--:----
+i	i	_	i	T	T-:----:--:----
+forhold	forhold	_	forhold	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+menneskers	menneskers	_	menneske	N	NC:pig#:--:----
+tab	tab	_	tab	N	NC:siun:--:----
+og	og	_	og	C	CC:----:--:----
+sorg	sorg	_-_	sorg	N	NW:----:--:----
+og	og	_	og	C	CC:----:--:----
+stiller	stiller	_	stille	V	VF:----:sa:----
+det	det	_	den	P	PM:s-un:--:----
+relevante	relevante	_	relevant	A	AC:sdu#:--:p---
+spørgsmål	spørgsmål	,_	spørgsmål	N	NC:siun:--:----
+om	om	_	om	C	CS:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+måske	måske	_	måske	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+tættest	tættest	_	tæt	A	AD:----:--:s---
+på	på	,_	på	T	T-:----:--:----
+når	når	_	når	C	CS:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+synes	synes	_	syne	V	VF:----:sp:----
+længst	længst	_	længst	X	XY:----:--:----
+væk	væk	.$	væk	D	D-:----:--:u---
+</s>
+<s id="2000-8-78">
+gergiev	Gergiev	_	Gergiev	N	NP:siu#:--:----
+synes	synes	_	syne	V	VF:----:sp:----
+dog	dog	_	dog	D	D-:----:--:u---
+at	at	_	at	U	UI:----:--:----
+trække	trække	_	trække	V	VI:----:-a:----
+stærkest	stærkest	,_	stærkest	X	XY:----:--:----
+for	for	_	for	C	CC:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+bestemmer	bestemmer	_	bestemme	V	VF:----:sa:----
+tempi	tempi	.$	tempo	N	NC:piu#:--:----
+</s>
+<s id="2000-8-79">
+bl	Bl	.	blandt	T	T-:----:--:----
+a	a	._	anden	P	PI:s-un:--:----
+derfor	derfor	_	derfor	D	D-:----:--:u---
+forventer	forventer	_	forvente	V	VF:----:sa:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+os	os	_	vi	P	PP:p-uc:--:-1#-
+meget	meget	_	megen	A	AD:----:--:p---
+af	af	_	af	T	T-:----:--:----
+afdelingen	afdelingen	_	afdeling	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+kommende	kommende	_	komme	V	VP:##u#:s-:----
+år	år	.$	år	N	NC:siun:--:----
+</s>
+<s id="2000-8-80">
+det	Det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+nogle	nogle	_	nogen	P	PI:p-u#:--:----
+rigtig	rigtig	_	rigtig	A	AD:----:--:p---
+fede	fede	_	fed	A	AC:p#u#:--:p---
+toiletter	toiletter	.$	toilet	N	NC:piu#:--:----
+</s>
+<s id="2000-8-81">
+jeg	Jeg	_	jeg	P	PP:s-nc:--:-1n-
+er	er	_	være	V	VF:----:sa:----
+selv	selv	_	selv	D	D-:----:--:u---
+opvokset	opvokset	_	opvokset	A	AC:siu§:--:p---
+i	i	_	i	T	T-:----:--:----
+byen	byen	_	by	N	NC:sduc:--:----
+og	og	_	og	C	CC:----:--:----
+anede	anede	_	ane	V	VF:----:ta:----
+intet	intet	_	ingen	P	PI:s-un:--:----
+om	om	_	om	T	T-:----:--:----
+landbrug	landbrug	,_	landbrug	N	NC:siun:--:----
+før	før	_	før	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+mødte	mødte	_	møde	V	VF:----:ta:----
+og	og	_	og	C	CC:----:--:----
+giftede	giftede	_	gifte	V	VF:----:ta:----
+mig	mig	_	jeg	P	PP:s-uc:--:-1#-
+med	med	_	med	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+landmand	landmand	.$	landmand	N	NC:siuc:--:----
+</s>
+<s id="2000-8-82">
+godt	Godt	_	god	A	AD:----:--:p---
+150	150	_	150	L	LC:--u-:--:----
+har	har	_	have	V	VF:----:sa:----
+fået	fået	_	få	V	VT:siu#:t-:----
+opholdstilladelse	opholdstilladelse	,_	opholdstilladelse	N	NC:siuc:--:----
+fordi	fordi	_	fordi	C	CS:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+tilhører	tilhører	_	tilhøre	V	VF:----:sa:----
+særligt	særligt	_	særlig	A	AD:----:--:p---
+sårbare	sårbare	_	sårbar	A	AC:p#u#:--:p---
+grupper	grupper	.$	gruppe	N	NC:piu#:--:----
+</s>
+<s id="2000-8-83">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+smilede	smilede	_	smile	V	VF:----:ta:----
+genert	genert	_	genert	A	AD:----:--:p---
+og	og	_	og	C	CC:----:--:----
+var	var	_	være	V	VF:----:ta:----
+tydeligvis	tydeligvis	_	tydeligvis	D	D-:----:--:u---
+lettet	lettet	.$	lette	V	VT:siu#:t-:----
+</s>
+<s id="2000-8-84">
+man	Man	_	man	P	PI:#-uc:--:----
+tager	tager	_	tage	V	VF:----:sa:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+til	til	_	til	T	T-:----:--:----
+hovedet	hovedet	_	hoved	N	NC:sdun:--:----
+over	over	_	over	T	T-:----:--:----
+sådanne	sådanne	_	sådan	A	AC:p#u#:--:p---
+beslutninger	beslutninger	.$	beslutning	N	NC:piu#:--:----
+</s>
+<s id="2000-8-85">
+det	Det	_	den	P	PM:s-un:--:----
+samme	samme	_	samme	A	AC:§§u§:--:p---
+gælder	gælder	_	gælde	V	VF:----:sa:----
+tjenestemandspensionen	tjenestemandspensionen	,_	tjenestemandspension	N	NC:sduc:--:----
+som	som	_	som	U	US:----:--:----
+formentlig	formentlig	_	formentlig	A	AD:----:--:p---
+vil	vil	_	ville	V	VF:----:sa:----
+stige	stige	_	stige	V	VI:----:-a:----
+med	med	_	med	T	T-:----:--:----
+2	2	,	2	L	LC:--u-:--:----
+7	7	_	7	L	LC:--u-:--:----
+pct	pct	._	procent	N	NC:piu#:--:----
+</s>
+<s id="2000-8-86">
+et	Et	_	en	P	PI:s-un:--:----
+mønster	mønster	,_	mønster	N	NC:siun:--:----
+der	der	_	der	U	US:----:--:----
+forstærkedes	forstærkedes	_	forstærkedes	X	XY:----:--:----
+yderligere	yderligere	_	yderlig	A	AC:##u#:--:c---
+ved	ved	_	ved	T	T-:----:--:----
+indvielsen	indvielsen	_	indvielse	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+forbrændingsanstalt	forbrændingsanstalt	_	forbrændingsanstalt	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+1934	1934	_	1934	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+ny	ny	_	ny	A	AC:siuc:--:p---
+administrationsbygning	administrationsbygning	_	administrationsbygning	N	NC:siuc:--:----
+året	året	_	året	V	VT:siu#:t-:----
+efter	efter	.$	efter	T	T-:----:--:----
+</s>
+<s id="2000-8-87">
+rollen	Rollen	_	rolle	N	NC:sduc:--:----
+var	var	_	være	V	VF:----:ta:----
+skræddersyet	skræddersyet	_	skræddersy	V	VT:siu#:t-:----
+til	til	_	til	T	T-:----:--:----
+frank	Frank	_	Frank	N	NP:siu#:--:----
+james	James	_	James	N	NP:siu#:--:----
+cooper	Cooper	,_	Cooper	N	NP:siu#:--:----
+født	født	_	føde	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+britiske	britiske	_	britisk	A	AC:p#u#:--:p---
+forældre	forældre	_	forælder	N	NC:piu#:--:----
+7	7	._	7	L	LC:--u-:--:----
+maj	maj	_	maj	N	NC:siuc:--:----
+1901	1901	_	1901	L	LC:--u-:--:----
+i	i	_	i	T	T-:----:--:----
+helena	Helena	,_	Helena	N	NP:siu#:--:----
+montana	Montana	.$	Montana	N	NP:siu#:--:----
+</s>
+<s id="2000-8-88">
+artikler	Artikler	_	artikel	N	NC:piu#:--:----
+gennem	gennem	_	gennem	T	T-:----:--:----
+28	28	_	28	L	LC:--u-:--:----
+år	år	_	år	N	NC:piu#:--:----
+fra	fra	_	fra	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+af	af	_	af	T	T-:----:--:----
+journalistfagets	journalistfagets	_	journalistfag	N	NC:sdgn:--:----
+helte	helte	,_	helt	N	NC:piu#:--:----
+et	et	_	en	P	PI:s-un:--:----
+forrygende	forrygende	_	forrygende	A	AC:§§u§:--:p---
+stykke	stykke	_	stykke	N	NC:siun:--:----
+stykke	stykke	_	stykke	V	VI:----:-a:----
+samtidshistorie	samtidshistorie	.$	samtidshistorie	N	NC:siuc:--:----
+</s>
+<s id="2000-8-89">
+det	Det	_	det	P	PP:s-un:--:-3n-
+kræver	kræver	,_	kræve	V	VF:----:sa:----
+at	at	_	at	C	CS:----:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+i	i	_	i	D	D-:----:--:u---
+videst	videst	_	vid	A	AD:----:--:s---
+muligt	muligt	_	mulig	A	AC:siun:--:p---
+omfang	omfang	_	omfang	N	NC:siun:--:----
+bistår	bistår	_	bistå	V	VF:----:sa:----
+hinanden	hinanden	_	hinanden	P	PC:p-u-:--:----
+på	på	_	på	T	T-:----:--:----
+tværs	tværs	_	tværs	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+landegrænser	landegrænser	_	landegrænse	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+kampen	kampen	_	kamp	N	NC:sduc:--:----
+mod	mod	_	mod	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+grænseoverskridende	grænseoverskridende	_	grænseoverskridende	A	AC:§§u§:--:p---
+kriminalitet	kriminalitet	,_	kriminalitet	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+at	at	_	at	C	CS:----:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+løbende	løbende	_	løbende	A	AC:§§u§:--:p---
+overvåger	overvåger	_	overvåge	V	VF:----:sa:----
+kriminalitetsudviklingen	kriminalitetsudviklingen	.$	kriminalitetsudvikling	N	NC:sduc:--:----
+</s>
+<s id="2000-8-90">
+indtil	Indtil	_	indtil	T	T-:----:--:----
+dsl	DSL	_	DSL	N	NP:siu#:--:----
+møder	møder	_	møde	V	VF:----:sa:----
+frem	frem	_	frem	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+meget	meget	_	megen	A	AD:----:--:p---
+troværdig	troværdig	_	troværdig	A	AC:siuc:--:p---
+og	og	_	og	C	CC:----:--:----
+overbevisende	overbevisende	_	overbevise	V	VP:##u#:s-:----
+forklaring	forklaring	_	forklaring	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+hr	hr	._	herre	N	NC:siuc:--:----
+</s>
+<s id="2000-8-91">
+og	Og	_	og	C	CC:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+positive	positive	_	positiv	A	AC:sdu#:--:p---
+bølge	bølge	_	bølge	N	NC:siuc:--:----
+nåede	nåede	_	nå	V	VF:----:ta:----
+i	i	_	i	T	T-:----:--:----
+går	går	_	går	N	NC:§§u§:--:----
+nye	nye	_	ny	A	AC:p#u#:--:p---
+højder	højder	,_	højde	N	NC:piu#:--:----
+da	da	_	da	C	CS:----:--:----
+djursland	Djursland	_	Djursland	N	NP:siu#:--:----
+bank	Bank	_	Bank	N	NP:siu#:--:----
+på	på	_	på	T	T-:----:--:----
+ndr	Ndr	.$	Ndr	N	NP:siu#:--:----
+</s>
+<s id="2000-8-92">
+der	Der	_	der	U	US:----:--:----
+var	var	_	være	V	VF:----:ta:----
+tomme	tomme	_	tom	A	AC:p#u#:--:p---
+lokaler	lokaler	_	lokale	N	NC:piu#:--:----
+forskellige	forskellige	_	forskellig	A	AC:p#u#:--:p---
+steder	steder	_	sted	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+huset	huset	,_	hus	N	NC:sdun:--:----
+og	og	_	og	C	CC:----:--:----
+når	når	_	når	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+så	så	_	så	D	D-:----:--:u---
+foreslog	foreslog	,_	foreslå	V	VF:----:ta:----
+at	at	_	at	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+måske	måske	_	måske	D	D-:----:--:u---
+kunne	kunne	_	kunne	V	VF:----:ta:----
+lave	lave	_	lave	V	VI:----:-a:----
+nogle	nogle	_	nogen	P	PI:p-u#:--:----
+arrangementer	arrangementer	_	arrangement	N	NC:piu#:--:----
+der	dér	,_	der	D	D-:----:--:u---
+sagde	sagde	_	sige	V	VF:----:ta:----
+kommunen	kommunen	_	kommune	N	NC:sduc:--:----
+bare	bare	_	bare	D	D-:----:--:u---
+ja	ja	_	ja	N	NC:siun:--:----
+tak	tak	.$	tak	N	NC:siuc:--:----
+</s>
+<s id="2000-8-93">
+og	Og	_	og	C	CC:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+kunne	kunne	_	kunne	V	VF:----:ta:----
+meget	meget	_	megen	A	AD:----:--:p---
+vel	vel	_	vel	D	D-:----:--:u---
+tænke	tænke	_	tænke	V	VI:----:-a:----
+sig	sig	,_	sig	P	PP:#-u#:--:-3y-
+at	at	_	at	C	CS:----:--:----
+domstolene	domstolene	_	domstol	N	NC:pdu#:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+mener	mener	,_	mene	V	VF:----:sa:----
+myndighederne	myndighederne	_	myndighed	N	NC:pdu#:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+støtte	støtte	_	støtte	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+beskatning	beskatning	_	beskatning	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+eksisterende	eksisterende	_	eksisterende	A	AC:§§u§:--:p---
+retskrav	retskrav	_	retskrav	N	NC:siun:--:----
+om	om	_	om	T	T-:----:--:----
+bopæl	bopæl	_	bopæl	N	NC:siuc:--:----
+hos	hos	_	hos	T	T-:----:--:----
+sine	sine	_	sin	P	PO:p--#:--:-3ys
+forældre	forældre	.$	forælder	N	NC:piu#:--:----
+</s>
+<s id="2000-8-94">
+katrine	Katrine	_	Katrine	N	NP:siu#:--:----
+munck	Munck	_	Munck	N	NP:siu#:--:----
+og	og	_	og	C	CC:----:--:----
+laura	Laura	_	Laura	N	NP:siu#:--:----
+danielsen	Danielsen	_	Danielsen	N	NP:siu#:--:----
+var	var	_	være	V	VF:----:ta:----
+lyspunkterne	lyspunkterne	_	lyspunkt	N	NC:pdu#:--:----
+på	på	_	på	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+ellers	ellers	_	ellers	D	D-:----:--:u---
+skuffende	skuffende	_	skuffe	V	VP:##u#:s-:----
+randers	Randers	-	Randers	N	NW:----:--:----
+hold	hold	,_	hold	N	NC:siun:--:----
+der	der	_	der	U	US:----:--:----
+helt	helt	_	hel	A	AD:----:--:p---
+unødvendigt	unødvendigt	_	unødvendig	A	AD:----:--:p---
+måtte	måtte	_	måtte	V	VF:----:ta:----
+nøjes	nøjes	_	nøje	V	VI:----:-p:----
+med	med	_	med	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+ene	ene	_	ene	A	AC:§§u§:--:p---
+point	point	.$	point	N	NC:siun:--:----
+</s>
+<s id="2000-8-95">
+bøger	Bøger	_	bog	N	NC:piu#:--:----
+om	om	_	om	T	T-:----:--:----
+opdagelsesrejser	opdagelsesrejser	.$	opdagelsesrejse	N	NC:piu#:--:----
+</s>
+<s id="2000-8-96">
+mange	Mange	_	mangen	A	AC:p#u#:--:p---
+grækere	grækere	_	græker	N	NC:piu#:--:----
+klager	klager	_	klage	V	VF:----:sa:----
+over	over	,_	over	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+blevet	blevet	_	blive	V	VT:siu#:t-:----
+overfaldet	overfaldet	_	overfalde	V	VT:siu#:t-:----
+og	og	_	og	C	CC:----:--:----
+berøvet	berøvet	_	berøve	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+albanere	albanere	_	albaner	N	NC:piu#:--:----
+indtil	indtil	_	indtil	T	T-:----:--:----
+flere	flere	_	mange	A	AC:##u#:--:c---
+gange	gange	_	gang	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+har	har	_	have	V	VF:----:sa:----
+anskaffet	anskaffet	_	anskaffe	V	VT:siu#:t-:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+våben	våben	_	våben	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+selvforsvar	selvforsvar	.$	selvforsvar	N	NC:siun:--:----
+</s>
+<s id="2000-8-97">
+bukoshi	Bukoshi	_	Bukoshi	N	NP:siu#:--:----
+sidder	sidder	_	sidde	V	VF:----:sa:----
+dog	dog	_	dog	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+en	én	_	en	P	PI:s-uc:--:----
+trumf	trumf	_	trumf	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+sit	sit	_	sin	P	PO:s--n:--:-3ys
+eksil	eksil	_	eksil	N	NC:siun:--:----
+i	i	_	i	T	T-:----:--:----
+tyskland	Tyskland	:_	Tyskland	N	NP:siu#:--:----
+han	han	,_	han	P	PP:s-nc:--:-3n-
+ikke	ikke	_	ikke	D	D-:----:--:u---
+uck	UCK	,_	UCK	N	NP:siu#:--:----
+har	har	_	have	V	VF:----:sa:----
+adgang	adgang	_	adgang	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+kosovo	Kosovo	-	Kosovo	N	NW:----:--:----
+albanske	albanske	_	albansk	A	AC:sdu#:--:p---
+nationalbevægelses	nationalbevægelses	_	nationalbevægelse	N	NC:sigc:--:----
+bankkonti	bankkonti	.$	bankkonto	N	NC:piu#:--:----
+</s>
+<s id="2000-8-98">
+urban	Urban	_	Urban	N	NP:siu#:--:----
+bjørn	Björn	,_	Björn	N	NP:siu#:--:----
+56	56	_	56	L	LC:--u-:--:----
+år	år	,_	år	N	NC:piu#:--:----
+er	er	_	være	V	VF:----:sa:----
+udnævnt	udnævnt	_	udnævne	V	VT:siu#:t-:----
+til	til	_	til	T	T-:----:--:----
+direktør	direktør	_	direktør	N	NC:siuc:--:----
+for	for	_	for	T	T-:----:--:----
+danfoss	Danfoss	_	Danfoss	N	NP:siu#:--:----
+ab	AB	_	AB	N	NP:siu#:--:----
+i	i	_	i	T	T-:----:--:----
+sverige	Sverige	.$	Sverige	N	NP:siu#:--:----
+</s>
+<s id="2000-8-99">
+det	Det	_	det	P	PP:s-un:--:-3n-
+fremgår	fremgår	_	fremgå	V	VF:----:sa:----
+af	af	_	af	T	T-:----:--:----
+fondens	fondens	_	fond	N	NC:sdgc:--:----
+1998	1998	-	1998	L	LW:----:--:----
+regnskab	regnskab	.$	regnskab	N	NC:siun:--:----
+</s>
+<s id="2000-8-100">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+har	har	_	have	V	VF:----:sa:----
+forbindelse	forbindelse	_	forbindelse	N	NC:siuc:--:----
+med	med	_	med	T	T-:----:--:----
+tyske	tyske	_	tysk	A	AC:p#u#:--:p---
+ornitologer	ornitologer	,_	ornitolog	N	NC:piu#:--:----
+som	som	_	som	U	US:----:--:----
+melder	melder	_	melde	V	VF:----:sa:----
+om	om	_	om	T	T-:----:--:----
+samme	samme	_	samme	A	AC:§§u§:--:p---
+udvikling	udvikling	_	udvikling	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+både	både	_	både	D	D-:----:--:u---
+vadehavsområderne	vadehavsområderne	_	vadehavsområde	N	NC:pdu#:--:----
+og	og	_	og	C	CC:----:--:----
+i	i	_	i	T	T-:----:--:----
+kielerbugten	Kielerbugten	_",_	Kielerbugten	N	NP:siu#:--:----
+siger	siger	_	sige	V	VF:----:sa:----
+sund	Sund	_	sund	A	AC:siuc:--:p---
+&	&	_	&	N	NP:siu#:--:----
+bælts	Bælts	_	bælt	N	NC:sign:--:----
+miljøchef	miljøchef	.$	miljøchef	N	NC:siuc:--:----
+</s>
+<s id="2000-8-101">
+dernæst	Dernæst	_	dernæst	D	D-:----:--:u---
+reducerede	reducerede	_	reducere	V	VF:----:ta:----
+tarnat	Tarnat	_	Tarnat	N	NP:siu#:--:----
+for	for	_	for	T	T-:----:--:----
+tyskland	Tyskland	_	Tyskland	N	NP:siu#:--:----
+på	på	_	på	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+frispark	frispark	,_	frispark	N	NC:siun:--:----
+der	der	_	der	U	US:----:--:----
+blev	blev	_	blive	V	VF:----:ta:----
+rettet	rettet	_	rette	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+nr	nr	._	nummer	N	NC:siun:--:----
+</s>
+<s id="2000-8-102">
+der	Der	_	der	U	US:----:--:----
+har	har	_	have	V	VF:----:sa:----
+været	været	_	være	V	VT:siu#:t-:----
+en	en	_	en	P	PI:s-uc:--:----
+mur	mur	_	mur	N	NC:siuc:--:----
+mellem	mellem	_	mellem	T	T-:----:--:----
+os	os	_	vi	P	PP:p-uc:--:-1#-
+og	og	_	og	C	CC:----:--:----
+resten	resten	_	rest	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+verden	verden	.$	verden	N	NC:siuc:--:----
+</s>
+<s id="2000-8-103">
+af	Af	_	af	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+kampe	kampe	_	kamp	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+weekenden	weekenden	,_	weekend	N	NC:sduc:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+tipstjenesten	tipstjenesten	_	tipstjeneste	N	NC:sduc:--:----
+har	har	_	have	V	VF:----:sa:----
+fastsat	fastsat	_	fastsætte	V	VT:siu#:t-:----
+odds	odds	_	odds	N	NC:piu#:--:----
+for	for	_	for	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+forskellige	forskellige	_	forskellig	A	AC:p#u#:--:p---
+resultater	resultater	,_	resultat	N	NC:piu#:--:----
+er	er	_	være	V	VF:----:sa:----
+det	det	_	den	P	PM:s-un:--:----
+højeste	højeste	_	høj	A	AC:§du§:--:s---
+75	75	,_	75	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+var	var	,_	være	V	VF:----:ta:----
+hvis	hvis	_	hvis	C	CS:----:--:----
+spanien	Spanien	_	Spanien	N	NP:siu#:--:----
+havde	havde	_	have	V	VF:----:ta:----
+vundet	vundet	_	vinde	V	VT:siu#:t-:----
+6	6	-	6	L	LC:--u-:--:----
+1	1	_	1	L	LC:--u-:--:----
+over	over	_	over	T	T-:----:--:----
+paraguay	Paraguay	_	Paraguay	N	NP:siu#:--:----
+fredag	fredag	_	fredag	N	NC:siuc:--:----
+aften	aften	.$	aften	N	NC:siuc:--:----
+</s>
+<s id="2000-8-104">
+derved	Derved	_	derved	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+blevet	blevet	_	blive	V	VT:siu#:t-:----
+stående	stående	,_	stå	V	VP:##u#:s-:----
+eller	eller	_	eller	C	CC:----:--:----
+rettere	rettere	,_	ret	A	AD:----:--:c---
+han	han	_	han	P	PP:s-nc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+gået	gået	_	gå	V	VT:siu#:t-:----
+tilbage	tilbage	...$	tilbage	D	D-:----:--:u---
+</s>
+<s id="2000-8-105">
+men	Men	_	men	C	CC:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+var	var	_	være	V	VF:----:ta:----
+et	et	_	en	P	PI:s-un:--:----
+stykke	stykke	_	stykke	N	NC:siun:--:----
+fra	fra	_	fra	T	T-:----:--:----
+vurderingen	vurderingen	_	vurdering	N	NC:sduc:--:----
+på	på	_	på	T	T-:----:--:----
+550	550	.	550	L	LC:--u-:--:----
+000	000	_	000	L	LC:--u-:--:----
+kr	kr	.$	krone	N	NC:piu#:--:----
+</s>
+<s id="2000-8-106">
+hun	Hun	_	hun	P	PP:s-nc:--:-3n-
+studerede	studerede	_	studere	V	VF:----:ta:----
+et	et	_	en	P	PI:s-un:--:----
+par	par	_	par	N	NC:siun:--:----
+billeder	billeder	_	billede	N	NC:piu#:--:----
+af	af	_	af	T	T-:----:--:----
+broen	broen	,_	bro	N	NC:sduc:--:----
+omsatte	omsatte	_	omsætte	V	VF:----:ta:----
+ingeniørernes	ingeniørernes	_	ingeniør	N	NC:pdg#:--:----
+konstruktioner	konstruktioner	_	konstruktion	N	NC:piu#:--:----
+til	til	_	til	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+diagram	diagram	_	diagram	N	NC:siun:--:----
+og	og	_	og	C	CC:----:--:----
+tegnede	tegnede	_	tegne	V	VF:----:ta:----
+mønstret	mønstret	_	mønstre	V	VT:siu#:t-:----
+på	på	_	på	T	T-:----:--:----
+computer	computer	.$	computer	N	NC:siuc:--:----
+</s>
+<s id="2000-8-107">
+et	Et	_	en	P	PI:s-un:--:----
+samarbejde	samarbejde	_	samarbejde	N	NC:siun:--:----
+mellem	mellem	_	mellem	T	T-:----:--:----
+rådet	Rådet	_	råd	N	NC:sdun:--:----
+for	for	_	for	T	T-:----:--:----
+større	Større	_	stor	A	AC:##u#:--:c---
+færdselssikkerhed	Færdselssikkerhed	,_	færdselssikkerhed	N	NC:siuc:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+lokale	lokale	_	lokal	A	AC:sdu#:--:p---
+færdselssikkerhedsudvalg	færdselssikkerhedsudvalg	_	færdselssikkerhedsudvalg	N	NC:siun:--:----
+og	og	_	og	C	CC:----:--:----
+politiet	politiet	.$	politi	N	NC:sdun:--:----
+</s>
+<s id="2000-8-108">
+i	I	_	i	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+kommende	kommende	_	komme	V	VP:##u#:s-:----
+år	år	_	år	N	NC:piu#:--:----
+vil	vil	_	ville	V	VF:----:sa:----
+nc	NC	-	NC	N	NP:siu#:--:----
+markedet	markedet	_	marked	N	NC:sdun:--:----
+ifølge	ifølge	_	ifølge	T	T-:----:--:----
+gant	Gant	_	Gant	N	NP:siu#:--:----
+være	være	_	være	V	VI:----:-a:----
+delt	delt	_	dele	V	VT:siu#:t-:----
+i	i	_	i	T	T-:----:--:----
+to	to	.$	to	L	LC:--u-:--:----
+</s>
+<s id="2000-8-109">
+med	Med	_	med	T	T-:----:--:----
+abachas	Abachas	_	Abachas	N	NP:sig#:--:----
+død	død	_	død	N	NC:siuc:--:----
+risikerer	risikerer	_	risikere	V	VF:----:sa:----
+nigeria	Nigeria	_	Nigeria	N	NP:siu#:--:----
+endnu	endnu	_	endnu	D	D-:----:--:u---
+et	et	_	en	P	PI:s-un:--:----
+militærregime	militærregime	_-_	militærregime	N	NW:----:--:----
+og	og	_	og	C	CC:----:--:----
+formentlig	formentlig	_	formentlig	A	AD:----:--:p---
+vil	vil	_	ville	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+ny	ny	_	ny	A	AC:sdu#:--:p---
+leder	leder	_	leder	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+modsætning	modsætning	_	modsætning	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+abacha	Abacha	_	Abacha	N	NP:siu#:--:----
+bære	bære	_	bære	V	VI:----:-a:----
+uniform	uniform	.$	uniform	A	AC:siuc:--:p---
+</s>
+<s id="2000-8-110">
+og	Og	_	og	C	CC:----:--:----
+dels	dels	_	dels	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+der	der	_	der	U	US:----:--:----
+finansieringen	finansieringen	.$	finansiering	N	NC:sduc:--:----
+</s>
+<s id="2000-8-111">
+start	START	_	start	N	NC:siuc:--:----
+ii	II	-	II	L	LC:--u-:--:----
+aftalen	aftalen	_	aftale	N	NC:sduc:--:----
+mangler	mangler	_	mangle	V	VF:----:sa:----
+fortsat	fortsat	_	fortsat	D	D-:----:--:u---
+at	at	_	at	U	UI:----:--:----
+blive	blive	_	blive	V	VI:----:-a:----
+godkendt	godkendt	_	godkende	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+russiske	russiske	_	russisk	A	AC:sdu#:--:p---
+parlament	parlament	,_	parlament	N	NC:siun:--:----
+dumaen	Dumaen	.$	Dumaen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-112">
+fn	FN	-	FN	N	NW:----:--:----
+tropperne	tropperne	_	tropperne	X	XY:----:--:----
+stod	stod	_	stå	V	VF:----:ta:----
+over	over	_	over	D	D-:----:--:u---
+for	for	_	for	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+regeringshær	regeringshær	_	regeringshær	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+35	35	.	35	L	LC:--u-:--:----
+000	000	_	000	L	LC:--u-:--:----
+mand	mand	_	mand	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+omkring	omkring	_	omkring	T	T-:----:--:----
+13	13	.	13	L	LC:--u-:--:----
+000	000	_	000	L	LC:--u-:--:----
+tutsi	tutsi	-	tutsi	N	NC:siuc:--:----
+oprørere	oprørere	.$	oprører	N	NC:piu#:--:----
+</s>
+<s id="2000-8-113">
+hvis	Hvis	_	hvis	C	CS:----:--:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+rette	rette	,_	ret	A	AC:sdu#:--:p---
+kan	kan	_	kunne	V	VF:----:sa:----
+det	det	_	det	P	PP:s-un:--:-3n-
+virke	virke	_	virke	V	VI:----:-a:----
+sært	sært	,_	sær	A	AC:siun:--:p---
+at	at	_	at	C	CS:----:--:----
+heinesen	Heinesen	_	Heinesen	N	NP:siu#:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+har	har	_	have	V	VF:----:sa:----
+fastansat	fastansat	_	fastansætte	V	VT:siu#:t-:----
+ham	ham	_	han	P	PP:s-uc:--:-3n-
+forlængst	forlængst	.$	forlængst	D	D-:----:--:u---
+</s>
+<s id="2000-8-114">
+men	Men	_	men	C	CC:----:--:----
+når	når	_	når	C	CS:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+gælder	gælder	_	gælde	V	VF:----:sa:----
+byggeri	byggeri	_	byggeri	N	NC:siun:--:----
+af	af	_	af	T	T-:----:--:----
+huse	huse	,_	hus	N	NC:sifn:--:----
+er	er	_	være	V	VF:----:sa:----
+der	der	_	der	U	US:----:--:----
+ingen	ingen	_	ingen	P	PI:s-uc:--:----
+udvikling	udvikling	_	udvikling	N	NC:siuc:--:----
+sket	sket	.$	ske	V	VT:siu#:t-:----
+</s>
+<s id="2000-8-115">
+denne	Denne	_	denne	P	PM:s-uc:--:----
+fremgangsmåde	fremgangsmåde	_	fremgangsmåde	N	NC:siuc:--:----
+er	er	_	være	V	VF:----:sa:----
+undtagelsen	undtagelsen	,_	undtagelse	N	NC:sduc:--:----
+der	der	_	der	U	US:----:--:----
+bekræfter	bekræfter	_	bekræfte	V	VF:----:sa:----
+reglen	reglen	,_	huskeregel	N	NC:sduc:--:----
+men	men	_	men	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+interessant	interessant	_	interessant	A	AC:siu§:--:p---
+at	at	_	at	U	UI:----:--:----
+se	se	,_	se	V	VI:----:-a:----
+havd	havd	_	havd	N	NP:siu#:--:----
+en	en	_	en	P	PI:s-uc:--:----
+storkonflikt	storkonflikt	_	storkonflikt	N	NC:siuc:--:----
+betyder	betyder	_	betyde	V	VF:----:sa:----
+på	på	_	på	T	T-:----:--:----
+internet	Internet	.$	internet	N	NC:siun:--:----
+</s>
+<s id="2000-8-116">
+men	Men	_	men	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+var	var	_	være	V	VF:----:ta:----
+en	én	_	en	P	PI:s-uc:--:----
+ud	ud	_	ud	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+seks	seks	_	seks	L	LC:--u-:--:----
+milliarder	milliarder	_	milliard	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+verden	verden	_",_	verden	N	NC:siuc:--:----
+noterer	noterer	_	notere	V	VF:----:sa:----
+han	han	.$	han	P	PP:s-nc:--:-3n-
+</s>
+<s id="2000-8-117">
+princippet	Princippet	_	princip	N	NC:sdun:--:----
+omfatter	omfatter	_	omfatte	V	VF:----:sa:----
+også	også	_	også	D	D-:----:--:u---
+de	de	_	den	P	PM:p-u#:--:----
+lande	lande	,_	land	N	NC:piu#:--:----
+der	der	_	der	U	US:----:--:----
+som	som	_	som	U	US:----:--:----
+danmark	Danmark	_	Danmark	N	NP:siu#:--:----
+måtte	måtte	_	måtte	V	VF:----:ta:----
+stå	stå	_	stå	V	VI:----:-a:----
+uden	uden	_	uden	D	D-:----:--:u---
+for	for	_	for	T	T-:----:--:----
+euro	euro	-	euro	N	NW:----:--:----
+samarbejdet	samarbejdet	.$	samarbejde	N	NC:sdun:--:----
+</s>
+<s id="2000-8-118">
+i	I	_	i	T	T-:----:--:----
+windows	Windows	_	Window	N	NP:sig#:--:----
+98	98	_	98	L	LC:--u-:--:----
+er	er	_	være	V	VF:----:sa:----
+browseren	browseren	_	browser	N	NC:sduc:--:----
+integreret	integreret	_	integrere	V	VT:siu#:t-:----
+i	i	_	i	T	T-:----:--:----
+selve	selve	_	selve	A	AC:§§u§:--:p---
+operativsystemet	operativsystemet	,_	operativsystem	N	NC:sdun:--:----
+hvormed	hvormed	_	hvormed	D	D-:----:--:u---
+microsoft	Microsoft	_	Microsoft	N	NP:siu#:--:----
+synes	synes	_	syne	V	VF:----:sp:----
+sikker	sikker	_	sikker	A	AC:siuc:--:p---
+på	på	_	på	T	T-:----:--:----
+også	også	_	også	D	D-:----:--:u---
+at	at	_	at	U	UI:----:--:----
+ville	ville	_	ville	V	VI:----:-a:----
+dominere	dominere	_	dominere	V	VI:----:-a:----
+browsermarkedet	browsermarkedet	.$	browsermarked	N	NC:sdun:--:----
+</s>
+<s id="2000-8-119">
+nord	Nord	_	nord	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+stille	stille	_	stille	A	AC:§§u§:--:p---
+energi	energi	,_	energi	N	NC:siuc:--:----
+der	der	_	der	U	US:----:--:----
+er	er	_	være	V	VF:----:sa:----
+forbundet	forbundet	_	forbinde	V	VT:siu#:t-:----
+med	med	_	med	T	T-:----:--:----
+tilbagetrækning	tilbagetrækning	,_	tilbagetrækning	N	NC:siuc:--:----
+spiritualitet	spiritualitet	_	spiritualitet	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+hvile	hvile	,_	hvile	N	NC:siuc:--:----
+men	men	_	men	C	CC:----:--:----
+også	også	_	også	D	D-:----:--:u---
+seksualitet	seksualitet	.$	seksualitet	N	NC:siuc:--:----
+</s>
+<s id="2000-8-120">
+flid	Flid	,_	flid	N	NC:siuc:--:----
+talent	talent	_	talent	N	NC:siun:--:----
+og	og	_	og	C	CC:----:--:----
+godt	godt	_	god	A	AC:siun:--:p---
+humør	humør	_	humør	N	NC:siun:--:----
+er	er	_	være	V	VF:----:sa:----
+måske	måske	_	måske	D	D-:----:--:u---
+hele	hele	_	hel	A	AC:sdu#:--:p---
+forklaringen	forklaringen	_	forklaring	N	NC:sduc:--:----
+på	på	_	på	T	T-:----:--:----
+victor	Victor	_	Victor	N	NP:siu#:--:----
+petersens	Petersens	_	Petersen	N	NP:sig#:--:----
+omfattende	omfattende	_	omfattende	A	AC:§§u§:--:p---
+virke	virke	.$	virke	N	NC:siun:--:----
+</s>
+<s id="2000-8-121">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+skal	skal	_	skulle	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+4	4	._	4	L	LO:--u#:--:----
+juni	juni	_	juni	N	NC:siuc:--:----
+mødes	mødes	_	møde	V	VF:----:sp:----
+med	med	_	med	T	T-:----:--:----
+kulturminister	kulturminister	_	kulturminister	N	NC:siuc:--:----
+elsebeth	Elsebeth	_	Elsebeth	N	NP:siu#:--:----
+gerner	Gerner	_	Gerner	N	NP:siu#:--:----
+nielsen	Nielsen	_[...]_	Nielsen	N	NP:siu#:--:----
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+drøfte	drøfte	_	drøfte	V	VI:----:-a:----
+et	et	_	en	P	PI:s-un:--:----
+eksta	eksta	_	ekstage	V	VI:----:-a:----
+tilskud	tilskud	_	tilskud	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+team	Team	_	Team	N	NP:siu#:--:----
+danmark	Danmark	.$	Danmark	N	NP:siu#:--:----
+</s>
+<s id="2000-8-122">
+tallene	Tallene	_	tal	N	NC:pdu#:--:----
+for	for	_	for	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+lidt	lidt	_	lidt	A	AD:----:--:p---
+tungere	tungere	_	tung	A	AC:##u#:--:c---
+stationcar	stationcar	_	stationcar	N	NC:siuc:--:----
+er	er	_	være	V	VF:----:sa:----
+henholdsvis	henholdsvis	_	henholdsvis	D	D-:----:--:u---
+10	10	,	10	L	LC:--u-:--:----
+8	8	_	8	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+200	200	_	200	L	LC:--u-:--:----
+km	km	\	kilometer	N	NC:piu#:--:----
+t	t	._	t	X	XS:----:--:----
+</s>
+<s id="2000-8-123">
+johanson	Johanson	_	Johanson	N	NP:siu#:--:----
+kom	kom	_	komme	V	VF:----:ta:----
+hjem	hjem	_	hjem	D	D-:----:--:u---
+til	til	_	til	T	T-:----:--:----
+os	os	_	vi	P	PP:p-uc:--:-1#-
+og	og	_	og	C	CC:----:--:----
+spurgte	spurgte	_	spørge	V	VF:----:ta:----
+til	til	_	til	T	T-:----:--:----
+mig	mig	..._	jeg	P	PP:s-uc:--:-1#-
+</s>
+<s id="2000-8-124">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+ses	ses	_	se	V	VF:----:sp:----
+til	til	_	til	T	T-:----:--:----
+efteråret	efteråret	.$	efterår	N	NC:sdun:--:----
+</s>
+<s id="2000-8-125">
+han	Han	_	han	P	PP:s-nc:--:-3n-
+trak	trak	_	trække	V	VF:----:ta:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+bag	bag	_	bag	D	D-:----:--:u---
+af	af	,_	af	T	T-:----:--:----
+som	som	_	som	U	US:----:--:----
+havde	havde	_	have	V	VF:----:ta:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+taget	taget	_	tage	V	VT:siu#:t-:----
+hendes	hendes	_	hendes	P	PO:#--#:--:-3ns
+frakke	frakke	,_	frakke	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+lagde	lagde	_	lægge	V	VF:----:ta:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+på	på	_	på	T	T-:----:--:----
+gulvet	gulvet	.$	gulv	N	NC:sdun:--:----
+</s>
+<s id="2000-8-126">
+solens	Solens	_	sol	N	NC:sdgc:--:----
+sølvbro	sølvbro	_	sølvbro	N	NC:siuc:--:----
+over	over	_	over	T	T-:----:--:----
+vandhullet	vandhullet	_	vandhul	N	NC:sdun:--:----
+ender	ender	_	ende	V	VF:----:sa:----
+ved	ved	_	ved	T	T-:----:--:----
+hendes	hendes	_	hendes	P	PO:#--#:--:-3ns
+fødder	fødder	.$	fod	N	NC:piu#:--:----
+</s>
+<s id="2000-8-127">
+cartman	Cartman	_	Cartman	N	NP:siu#:--:----
+lyste	lyste	_	lyse	V	VF:----:ta:----
+rundt	rundt	,_"_	rundt	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+har	har	_	have	V	VF:----:sa:----
+alle	alle	_	al	P	PI:p-u#:--:----
+sammen	sammen	?$	sammen	D	D-:----:--:u---
+</s>
+<s id="2000-8-128">
+det	Det	_	det	P	PP:s-un:--:-3n-
+var	var	_	være	V	VF:----:ta:----
+en	en	_	en	P	PI:s-uc:--:----
+kulsort	kulsort	_	kulsort	A	AC:siuc:--:p---
+aften	aften	[...]$	aften	N	NC:siuc:--:----
+</s>
+<s id="2000-8-129">
+og	og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+skete	skete	_	ske	V	VF:----:ta:----
+da	da	_	da	D	D-:----:--:u---
+også	også	,_	også	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+der	der	_	der	U	US:----:--:----
+var	var	_	være	V	VF:----:ta:----
+løb	løb	_	løb	N	NC:siun:--:----
+for	for	_	for	T	T-:----:--:----
+piger	piger	,_	pige	N	NC:piu#:--:----
+men	men	_	men	C	CC:----:--:----
+denne	denne	_	denne	P	PM:s-uc:--:----
+gang	gang	_	gang	N	NC:siuc:--:----
+måtte	måtte	_	måtte	V	VF:----:ta:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+nøjes	nøjes	_	nøje	V	VI:----:-p:----
+med	med	_	med	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+se	se	_	se	V	VI:----:-a:----
+på	på	._	på	T	T-:----:--:----
+</s>
+<s id="2000-8-130">
+endelig	Endelig	_	endelig	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+det	det	_	det	P	PP:s-un:--:-3n-
+også	også	_	også	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+denne	denne	_	denne	P	PM:s-uc:--:----
+fase	fase	,_	fase	N	NC:siuc:--:----
+at	at	_	at	C	CS:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+skal	skal	_	skulle	V	VF:----:sa:----
+afgøres	afgøres	,_	afgøre	V	VI:----:-p:----
+hvorvidt	hvorvidt	_	hvorvidt	C	CS:----:--:----
+der	der	_	der	U	US:----:--:----
+skal	skal	_	skal	N	NC:siuc:--:----
+indsamles	indsamles	_	indsamle	V	VF:----:sp:----
+vurderings	vurderings	,_	vurdering	N	NW:----:--:----
+rangordnings	rangordnings	_	rangordning	N	NC:sigc:--:----
+eller	eller	_	eller	C	CC:----:--:----
+diskrete	diskrete	_	diskret	A	AC:p#u#:--:p---
+valg	valg	-	valg	N	NW:----:--:----
+data	data	.$	data	N	NC:siun:--:----
+</s>
+<s id="2000-8-131">
+4	4	_	4	L	LC:--u-:--:----
+cm	cm	,_	centimeter	N	NC:piu#:--:----
+højde	højde	_	højde	N	NC:siuc:--:----
+på	på	_	på	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+totale	totale	_	total	A	AC:sdu#:--:p---
+logo	logo	_	logo	N	NC:siun:--:----
+max	max	_	maksimalt	A	AD:----:--:p---
+5	5	_	5	L	LC:--u-:--:----
+cm	cm	.$	centimeter	N	NC:piu#:--:----
+</s>
+<s id="2000-8-132">
+samtidig	Samtidig	_	samtidig	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+at	at	_	at	C	CS:----:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+lærer	lærer	_	lære	V	VF:----:sa:----
+at	at	_	at	U	UI:----:--:----
+opføre	opføre	_	opføre	V	VI:----:-a:----
+os	os	_	vi	P	PP:p-uc:--:-1#-
+fornuftigt	fornuftigt	_	fornuftig	A	AD:----:--:p---
+og	og	_	og	C	CC:----:--:----
+rationelt	rationelt	_	rationel	A	AD:----:--:p---
+under	under	_	under	T	T-:----:--:----
+udnyttelse	udnyttelse	_	udnyttelse	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+al	al	_	al	P	PI:s-uc:--:----
+den	den	_	den	P	PM:s-uc:--:----
+eksplicitte	eksplicitte	_	eksplicit	A	AC:sdu#:--:p---
+viden	viden	,_	viden	N	NC:siuc:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+er	er	_	være	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+besiddelse	besiddelse	_	besiddelse	N	NC:siuc:--:----
+af	af	.$	af	T	T-:----:--:----
+</s>
+<s id="2000-8-133">
+pigerne	Pigerne	_	pige	N	NC:pdu#:--:----
+angiver	angiver	_	angive	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+højere	højere	_	høj	A	AC:##u#:--:c---
+grad	grad	_	grad	N	NC:siuc:--:----
+end	end	_	end	C	CS:----:--:----
+drengene	drengene	,_	dreng	N	NC:pdu#:--:----
+at	at	_	at	C	CS:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+interesseret	interesseret	_	interessere	V	VT:siu#:t-:----
+i	i	_	i	T	T-:----:--:----
+undervisning	undervisning	_	undervisning	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+vægt	vægt	_	vægt	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+rygproblemer	rygproblemer	,_	rygproblem	N	NC:piu#:--:----
+idrætsskader	idrætsskader	_	idrætsskade	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+kropslig	kropslig	_	kropslig	A	AC:siuc:--:p---
+velvære	velvære	.$	velvære	N	NC:siun:--:----
+</s>
+<s id="2000-8-134">
+og	Og	_	og	C	CC:----:--:----
+befolkningen	befolkningen	_	befolkning	N	NC:sduc:--:----
+fortsætter	fortsætter	_	fortsætte	V	VF:----:sa:----
+sin	sin	_	sin	P	PO:s--c:--:-3ys
+vækst	vækst	_	vækst	N	NC:siuc:--:----
+med	med	_	med	T	T-:----:--:----
+foruroligende	foruroligende	_	forurolige	V	VP:##u#:s-:----
+fart	fart	.$	fart	N	NC:siuc:--:----
+</s>
+<s id="2000-8-135">
+mandag	Mandag	_	mandag	N	NC:siuc:--:----
+begyndte	begyndte	_	begynde	V	VF:----:ta:----
+selvfølgelig	selvfølgelig	_	selvfølgelig	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+sædvanlige	sædvanlige	_	sædvanlig	A	AC:sdu#:--:p---
+morgenløb	morgenløb	_	morgenløb	N	NC:siun:--:----
+med	med	_	med	T	T-:----:--:----
+alle	alle	_	al	P	PI:p-u#:--:----
+de	de	_"_	den	P	PM:p-u#:--:----
+friske	friske	_"_	frisk	A	AC:p#u#:--:p---
+elever	elever	_	elev	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+lærer	lærer	.$	lære	N	NC:piu#:--:----
+</s>
+<s id="2000-8-136">
+lørdag	Lørdag	_	lørdag	N	NC:siuc:--:----
+morgen	morgen	_	morgen	N	NC:siuc:--:----
+startede	startede	_	starte	V	VF:----:ta:----
+med	med	_	med	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+sædvanlige	sædvanlige	_	sædvanlig	A	AC:sdu#:--:p---
+morgenmad	morgenmad	,_	morgenmad	N	NC:siuc:--:----
+hvorefter	hvorefter	_	hvorefter	D	D-:----:--:u---
+de	de	_	den	P	PM:p-u#:--:----
+fleste	fleste	_	mange	A	AC:p#u#:--:s---
+af	af	_	af	T	T-:----:--:----
+os	os	_	vi	P	PP:p-uc:--:-1#-
+tog	tog	_	tage	V	VF:----:ta:----
+i	i	_	i	T	T-:----:--:----
+svømmehallen	svømmehallen	.$	svømmehal	N	NC:sduc:--:----
+</s>
+<s id="2000-8-137">
+engang	Engang	_	engang	D	D-:----:--:u---
+var	var	_	være	V	VF:----:ta:----
+i	I	_	i	T	T-:----:--:----
+mørke	mørke	,_	mørke	N	NC:siun:--:----
+skriver	skriver	_	skrive	V	VF:----:sa:----
+apostlen	apostlen	_	apostel	N	NC:sduc:--:----
+paulus	Paulus	_	Paulus	N	NP:siu#:--:----
+til	til	_	til	T	T-:----:--:----
+efeserne	efeserne	_	efeser	N	NC:pdu#:--:----
+med	med	_	med	T	T-:----:--:----
+ord	ord	,_	ord	N	NC:siun:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+skal	skal	_	skulle	V	VF:----:sa:----
+høre	høre	_	høre	V	VI:----:-a:----
+i	i	_	i	T	T-:----:--:----
+slutningen	slutningen	_	slutning	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+gudstjensten	gudstjensten	,_	gudstjensten	N	NC:siuc:--:----
+men	men	_	men	C	CC:----:--:----
+nu	nu	_	nu	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+i	i	_	i	T	T-:----:--:----
+lys	lys	_	lys	N	NC:siun:--:----
+i	i	_	i	T	T-:----:--:----
+herren	Herren	;$	herre	N	NC:sduc:--:----
+</s>
+<s id="2000-8-138">
+sådan	Sådan	_	sådan	D	D-:----:--:u---
+lyder	lyder	_	lyde	V	VF:----:sa:----
+en	én	_	en	P	PI:s-uc:--:----
+udgave	udgave	_	udgave	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+it	IT	-	IT	N	NC:siuc:--:----
+projekt	projekt	_	projekt	N	NC:siun:--:----
+på	på	_	på	T	T-:----:--:----
+lærerseminarier	lærerseminarier	.$	lærerseminarium	N	NC:piu#:--:----
+</s>
+<s id="2000-8-139">
+jeg	Jeg	_	jeg	P	PP:s-nc:--:-1n-
+vil	vil	_	ville	V	VF:----:sa:----
+blive	blive	_	blive	V	VI:----:-a:----
+ansat	ansat	_	ansætte	V	VT:siu#:t-:----
+på	på	_	på	T	T-:----:--:----
+kontrakter	kontrakter	_	kontrakt	N	NC:piu#:--:----
+af	af	_	af	T	T-:----:--:----
+3	3	,_	3	L	LC:--u-:--:----
+6	6	_	6	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+12	12	_	12	L	LC:--u-:--:----
+måneders	måneders	_	måned	N	NC:pig#:--:----
+varighed	varighed	.$	varighed	N	NC:siuc:--:----
+</s>
+<s id="2000-8-140">
+og	Og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+altså	altså	_	altså	D	D-:----:--:u---
+også	også	_	også	D	D-:----:--:u---
+her	her	,_	her	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+marcella	Marcella	_	Marcella	N	NP:siu#:--:----
+lindstad	Lindstad	_	Lindstad	N	NP:siu#:--:----
+mener	mener	,_	mene	V	VF:----:sa:----
+det	det	_	den	P	PM:s-un:--:----
+lille	lille	_	lille	A	AC:s§u§:--:p---
+selskab	selskab	_	selskab	N	NC:siun:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+få	få	_	få	V	VI:----:-a:----
+mest	mest	_	megen	A	AD:----:--:s---
+ud	ud	_	ud	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+lars	Lars	_	Lars	N	NP:siu#:--:----
+von	von	_	von	N	NP:siu#:--:----
+triers	Triers	_	Triers	N	NP:sig#:--:----
+navn	navn	.$	navn	N	NC:siun:--:----
+</s>
+<s id="2000-8-141">
+en	En	_	en	P	PI:s-uc:--:----
+ekspert	ekspert	_	ekspert	N	NC:siuc:--:----
+har	har	_	have	V	VF:----:sa:----
+f	f	.	for	T	T-:----:--:----
+eks	eks	._	eksempel	N	NC:siun:--:----
+vurderet	vurderet	,_	vurdere	V	VT:siu#:t-:----
+at	at	_	at	C	CS:----:--:----
+for	for	_	for	T	T-:----:--:----
+hver	hver	_	hver	P	PI:s-uc:--:----
+kvadratkilometer	kvadratkilometer	_	kvadratkilometer	N	NC:siuc:--:----
+regnskov	regnskov	,_	regnskov	N	NC:siuc:--:----
+der	der	_	der	U	US:----:--:----
+fældes	fældes	_	fælde	V	VF:----:sp:----
+på	på	_	på	T	T-:----:--:----
+øen	øen	_	ø	N	NC:sduc:--:----
+borneo	Borneo	,_	Borneo	N	NP:siu#:--:----
+dør	dør	_	dø	V	VF:----:sa:----
+eller	eller	_	eller	N	NP:siu#:--:----
+forsvinder	forsvinder	_	forsvinde	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+af	af	_	af	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+udrydningstruede	udrydningstruede	_	udrydningstrue	V	VP:p#u#:t-:----
+orangutanger	orangutanger	.$	orangutang	N	NC:piu#:--:----
+</s>
+<s id="2000-8-142">
+den	Den	_	den	P	PM:s-uc:--:----
+bedste	bedste	_	god	A	AC:§du§:--:s---
+hjælp	hjælp	_	hjælp	N	NC:siuc:--:----
+fik	fik	_	få	V	VF:----:ta:----
+birthe	Birthe	_	Birthe	N	NP:siu#:--:----
+først	først	,_	først	D	D-:----:--:u---
+da	da	_	da	C	CS:----:--:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+var	var	_	være	V	VF:----:ta:----
+så	så	_	så	D	D-:----:--:u---
+heldig	heldig	_	heldig	A	AC:siuc:--:p---
+at	at	_	at	U	UI:----:--:----
+møde	møde	_	møde	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+kvinde	kvinde	_	kvinde	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+samme	samme	_	samme	A	AC:§§u§:--:p---
+situation	situation	_	situation	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+hende	hende	_	hun	P	PP:s-uc:--:-3n-
+selv	selv	.$	selv	P	PM:#-u#:--:----
+</s>
+<s id="2000-8-143">
+til	Til	_	til	T	T-:----:--:----
+sidst	sidst	_	sidst	D	D-:----:--:u---
+lykkedes	lykkedes	_	lykkes	V	VF:----:tp:----
+det	det	_	det	P	PP:s-un:--:-3n-
+hende	hende	_	hun	P	PP:s-uc:--:-3n-
+at	at	_	at	U	UI:----:--:----
+få	få	_	få	V	VI:----:-a:----
+sagt	sagt	_	sige	V	VT:siu#:t-:----
+noget	noget	_	nogen	P	PI:s-un:--:----
+gennem	gennem	_	gennem	T	T-:----:--:----
+tårerne	tårerne	.$	tåre	N	NC:pdu#:--:----
+</s>
+<s id="2000-8-144">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+må	må	_	måtte	V	VF:----:sa:----
+hellere	hellere	_	hellere	D	D-:----:--:u---
+finde	finde	_	finde	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+god	god	_	god	A	AC:siuc:--:p---
+plads	plads	_	plads	N	NC:siuc:--:----
+oppe	oppe	_	oppe	D	D-:----:--:u---
+foran	foran	_",_	foran	T	T-:----:--:----
+sagde	sagde	_	sige	V	VF:----:ta:----
+paul	Paul	.$	Paul	N	NP:siu#:--:----
+</s>
+<s id="2000-8-145">
+gumpel	Gumpel	_",_	Gumpel	N	NP:siu#:--:----
+snøftede	snøftede	_	snøfte	V	VF:----:ta:----
+køkkenchef	køkkenchef	_	køkkenchef	N	NC:siuc:--:----
+fergink	Fergink	.$	Fergink	N	NP:siu#:--:----
+</s>
+<s id="2000-8-146">
+da	Da	_	da	C	CS:----:--:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+kommer	kommer	_	komme	V	VF:----:sa:----
+tilbage	tilbage	_	tilbage	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+et	et	_	en	P	PI:s-un:--:----
+håndklæde	håndklæde	_	håndklæde	N	NC:siun:--:----
+om	om	_	om	T	T-:----:--:----
+håret	håret	,_	hår	N	NC:sdun:--:----
+tager	tager	_	tage	V	VF:----:sa:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+et	et	_	en	P	PI:s-un:--:----
+par	par	_	par	N	NC:siun:--:----
+blå	blå	_	blå	A	AC:p#u#:--:p---
+trusser	trusser	_	trusse	N	NC:piu#:--:----
+frem	frem	_	frem	D	D-:----:--:u---
+og	og	_	og	C	CC:----:--:----
+holder	holder	_	holde	V	VF:----:sa:----
+dem	dem	_	de	P	PP:p-u#:--:-3n-
+op	op	_	op	D	D-:----:--:u---
+foran	foran	_	foran	T	T-:----:--:----
+mig	mig	.$	jeg	P	PP:s-uc:--:-1#-
+</s>
+<s id="2000-8-147">
+bestemmelsen	Bestemmelsen	_	bestemmelse	N	NC:sduc:--:----
+om	om	_	om	T	T-:----:--:----
+ansættelsesbrev	ansættelsesbrev	_	ansættelsesbrev	N	NC:siun:--:----
+svarer	svarer	_	svare	V	VF:----:sa:----
+til	til	_	til	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+tidligere	tidligere	_	tidlig	A	AD:----:--:c---
+gældende	gældende	_	gælde	V	VP:##u#:s-:----
+lønnings	lønnings	_	lønning	N	NC:sigc:--:----
+og	og	_	og	C	CC:----:--:----
+pensionslovs	pensionslovs	_	pensionslov	N	NC:sigc:--:----
+7	7	,_	7	L	LC:--u-:--:----
+stk	stk	.	stk	X	XS:----:--:----
+</s>
+<s id="2000-8-148">
+om	Om	_	om	T	T-:----:--:----
+morgenen	morgenen	_	morgen	N	NC:sduc:--:----
+stod	stod	_	stå	V	VF:----:ta:----
+trommerne	trommerne	_	tromme	N	NC:pdu#:--:----
+på	på	_	på	T	T-:----:--:----
+gangen	gangen	,_	gang	N	NC:sduc:--:----
+og	og	_	og	C	CC:----:--:----
+der	der	_	der	U	US:----:--:----
+stod	stod	_	stå	V	VF:----:ta:----
+8	8	-	8	L	LC:--u-:--:----
+10	10	_	10	L	LC:--u-:--:----
+børn	børn	_	barn	N	NC:piu#:--:----
+fra	fra	_	fra	T	T-:----:--:----
+1	1	-	1	L	LC:--u-:--:----
+5	5	_	5	L	LC:--u-:--:----
+år	år	_	år	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+spillede	spillede	_	spille	V	VF:----:ta:----
+på	på	_	på	T	T-:----:--:----
+dem	dem	.$	de	P	PP:p-u#:--:-3n-
+</s>
+<s id="2000-8-149">
+lotte	Lotte	_	Lotte	N	NP:siu#:--:----
+og	og	_	og	C	CC:----:--:----
+jeppe	Jeppe	_	Jeppe	N	NP:siu#:--:----
+er	er	_	være	V	VF:----:sa:----
+henholdsvis	henholdsvis	_	henholdsvis	D	D-:----:--:u---
+42	42	_	42	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+43	43	_	43	L	LC:--u-:--:----
+år	år	.$	år	N	NC:piu#:--:----
+</s>
+<s id="2000-8-150">
+en	En	_	en	P	PI:s-uc:--:----
+lønkonto	lønkonto	_	lønkonto	N	NC:siuc:--:----
+giver	giver	_	give	V	VF:----:sa:----
+typisk	typisk	_	typisk	A	AD:----:--:p---
+kun	kun	_	kun	D	D-:----:--:u---
+en	en	_	en	P	PI:s-uc:--:----
+kvart	kvart	_	kvart	A	AC:siu§:--:p---
+procent	procent	_	procent	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+rente	rente	,_	rente	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+når	når	_	når	C	CS:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+indregner	indregner	_	indregne	V	VF:----:sa:----
+skat	skat	,_	skat	N	NC:siuc:--:----
+inflation	inflation	_	inflation	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+eventuelle	eventuelle	_	eventuel	A	AC:p#u#:--:p---
+gebyrer	gebyrer	,_	gebyr	N	NC:piu#:--:----
+har	har	_	have	V	VF:----:sa:----
+man	man	_	man	P	PI:#-uc:--:----
+faktisk	faktisk	_	faktisk	A	AD:----:--:p---
+tabt	tabt	_	tabe	V	VT:siu#:t-:----
+penge	penge	.$	penge	N	NC:piu#:--:----
+</s>
+<s id="2000-8-151">
+1	1	.	1	L	LC:--u-:--:----
+200	200	.	200	L	LC:--u-:--:----
+000	000	_	000	L	LC:--u-:--:----
+kr	kr	.$	krone	N	NC:piu#:--:----
+</s>
+<s id="2000-8-152">
+alt	Alt	_	alt	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+alt	alt	_	al	P	PI:s-un:--:----
+handler	handler	_	handle	V	VF:----:sa:----
+det	det	_	det	P	PP:s-un:--:-3n-
+om	om	_	om	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+tænke	tænke	_	tænke	V	VI:----:-a:----
+langsigtet	langsigtet	,_	langsigtet	A	AC:siu§:--:p---
+når	når	_	når	C	CS:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+investerer	investerer	_	investere	V	VF:----:sa:----
+og	og	_	og	C	CC:----:--:----
+om	om	_	om	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+sprede	sprede	_	sprede	V	VI:----:-a:----
+sin	sin	_	sin	P	PO:s--c:--:-3ys
+risiko	risiko	_	risiko	N	NC:siuc:--:----
+ved	ved	_	ved	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+satse	satse	_	satse	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+blanding	blanding	_	blanding	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+aktier	aktier	_	aktie	N	NC:piu#:--:----
+og	og	_	og	C	CC:----:--:----
+obligationer	obligationer	,_	obligation	N	NC:piu#:--:----
+hvad	hvad	_	hvad	P	PR:s-u#:--:----
+enten	enten	_	enten	N	NP:siu#:--:----
+man	man	_	man	X	XY:----:--:----
+selv	selv	_	selv	P	PM:#-u#:--:----
+investerer	investerer	_	investere	V	VF:----:sa:----
+eller	eller	_	eller	N	NP:siu#:--:----
+lader	lader	_	lade	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+investeringsforening	investeringsforening	_	investeringsforening	N	NC:siuc:--:----
+gøre	gøre	_	gøre	V	VI:----:-a:----
+det	det	.$	det	P	PP:s-un:--:-3n-
+</s>
+<s id="2000-8-153">
+fra	Fra	_	fra	T	T-:----:--:----
+8	8	-	8	L	LC:--u-:--:----
+måneders	måneders	-	måned	N	NC:pig#:--:----
+alderen	alderen	_	alder	N	NC:sduc:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+barnet	barnet	_	barn	N	NC:sdun:--:----
+få	få	_	få	V	VI:----:-a:----
+1	1	-	1	L	LC:--u-:--:----
+2	2	_	2	L	LC:--u-:--:----
+teskefulde	teskefulde	_	teskefuld	N	NC:piu#:--:----
+visiblin	visiblin	_	visiblin	N	NC:piu#:--:----
+drysset	drysset	_	drysse	V	VT:siu#:t-:----
+på	på	_	på	T	T-:----:--:----
+sin	sin	_	sin	P	PO:s--c:--:-3ys
+morgenmad	morgenmad	.$	morgenmad	N	NC:siuc:--:----
+</s>
+<s id="2000-8-154">
+mennesket	Mennesket	_	menneske	N	NC:sdun:--:----
+har	har	_	have	V	VF:----:sa:----
+været	været	_	være	V	VT:siu#:t-:----
+tvunget	tvunget	_	tvinge	V	VT:siu#:t-:----
+til	til	_	til	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+udvikle	udvikle	_	udvikle	V	VI:----:-a:----
+forskellige	forskellige	_	forskellig	A	AC:p#u#:--:p---
+flugtmekanismer	flugtmekanismer	,_	flugtmekanisme	N	NC:piu#:--:----
+at	at	_	at	U	UI:----:--:----
+flygte	flygte	_	flygte	V	VI:----:-a:----
+fra	fra	_	fra	T	T-:----:--:----
+friheden	friheden	_	frihed	N	NC:sduc:--:----
+for	for	_	for	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+mestre	mestre	_	mestre	V	VI:----:-a:----
+følelsen	følelsen	_	følelse	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+ensomhed	ensomhed	_	ensomhed	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+angst	angst	.$	angst	N	NC:siuc:--:----
+</s>
+<s id="2000-8-155">
+new	New	_	New	N	NP:siu#:--:----
+york	York	:_	York	N	NP:siu#:--:----
+</s>
+<s id="2000-8-156">
+derfor	Derfor	_	derfor	D	D-:----:--:u---
+er	er	_	være	V	VF:----:sa:----
+aktivitet	aktivitet	_	aktivitet	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+visualisering	visualisering	_	visualisering	N	NC:siuc:--:----
+centrale	centrale	_	central	A	AC:p#u#:--:p---
+principper	principper	_	princip	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+læringsrummet	læringsrummet	.$	læringsrum	N	NC:sdun:--:----
+</s>
+<s id="2000-8-157">
+man	Man	_	man	P	PI:#-uc:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+undre	undre	_	undre	V	VI:----:-a:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+over	over	,_	over	T	T-:----:--:----
+at	at	_	at	C	CS:----:--:----
+u	u	-	u	N	NW:----:--:----
+landene	landene	_	land	N	NC:pdu#:--:----
+er	er	_	være	V	VF:----:sa:----
+henholdende	henholdende	_	henholdende	A	AC:§§u§:--:p---
+med	med	_	med	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+forpligte	forpligte	_	forpligte	V	VI:----:-a:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+økonomisk	økonomisk	_	økonomisk	A	AD:----:--:p---
+i	i	_	i	T	T-:----:--:----
+forhold	forhold	_	forhold	N	NC:siun:--:----
+til	til	_	til	T	T-:----:--:----
+drivhuseffekten	drivhuseffekten	,_	drivhuseffekt	N	NC:sduc:--:----
+sålænge	sålænge	_	sålænge	D	D-:----:--:u---
+de	de	_	den	P	PM:p-u#:--:----
+rige	rige	_	rig	A	AC:p#u#:--:p---
+lande	lande	_	land	N	NC:piu#:--:----
+har	har	_	have	V	VF:----:sa:----
+denne	denne	_	denne	P	PM:s-uc:--:----
+hykleriske	hykleriske	_	hyklerisk	A	AC:sdu#:--:p---
+indstilling	indstilling	.$	indstilling	N	NC:siuc:--:----
+</s>
+<s id="2000-8-158">
+mor	Mor	,_	mor	N	NC:siuc:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+skal	skal	_	skulle	V	VF:----:sa:----
+nok	nok	_	nok	D	D-:----:--:u---
+holde	holde	_	holde	V	VI:----:-a:----
+øje	øje	_	øje	N	NC:siun:--:----
+med	med	_	med	T	T-:----:--:----
+ulrik	Ulrik	.$	Ulrik	N	NP:siu#:--:----
+</s>
+<s id="2000-8-159">
+desværre	Desværre	_	desværre	D	D-:----:--:u---
+opdagede	opdagede	_	opdage	V	VF:----:ta:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+først	først	_	først	D	D-:----:--:u---
+da	da	_	da	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+kom	kom	_	komme	V	VF:----:ta:----
+ud	ud	,_	ud	D	D-:----:--:u---
+at	at	_	at	C	CS:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+havde	havde	_	have	V	VF:----:ta:----
+taget	taget	_	tage	V	VT:siu#:t-:----
+mine	mine	_	mine	N	NC:siuc:--:----
+sko	sko	_	sko	N	NC:piu#:--:----
+med	med	_	med	T	T-:----:--:----
+gummisåler	gummisåler	_	gummisål	N	NC:piu#:--:----
+på	på	,_	på	T	T-:----:--:----
+og	og	_	og	C	CC:----:--:----
+de	de	_	de	P	PP:p-n#:--:-3n-
+er	er	_	være	V	VF:----:sa:----
+altid	altid	_	altid	D	D-:----:--:u---
+ved	ved	_	ved	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+slå	slå	_	slå	V	VI:----:-a:----
+mig	mig	_	jeg	P	PP:s-uc:--:-1#-
+ihjel	ihjel	,_	ihjel	D	D-:----:--:u---
+for	for	_	for	C	CC:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+glider	glider	_	glide	V	VF:----:sa:----
+altså	altså	_	altså	D	D-:----:--:u---
+på	på	_	på	T	T-:----:--:----
+brosten	brosten	_	brosten	N	NC:siuc:--:----
+i	i	_	i	T	T-:----:--:----
+regnvejr	regnvejr	_	regnvejr	N	NC:siun:--:----
+med	med	_	med	T	T-:----:--:----
+dem	dem	_	de	P	PP:p-u#:--:-3n-
+på	på	_	på	T	T-:----:--:----
+fødderne	fødderne	.$	fod	N	NC:pdu#:--:----
+</s>
+<s id="2000-8-160">
+kvindernes	Kvindernes	_	kvinde	N	NC:pdg#:--:----
+behov	behov	_	behov	N	NC:siun:--:----
+er	er	_	være	V	VF:----:sa:----
+for	for	_	for	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+første	første	_	første	A	AC:§§u§:--:p---
+en	en	_	en	P	PI:s-uc:--:----
+længere	længere	_	lang	A	AC:##u#:--:c---
+barselsorlov	barselsorlov	_	barselsorlov	N	NC:siuc:--:----
+end	end	_	end	C	CS:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+nuværende	nuværende	.$	nuværende	A	AC:§§u§:--:p---
+</s>
+<s id="2000-8-161">
+-	-		-	N	NC:piu#:--:----
+man	Man	_	Man	N	NP:siu#:--:----
+skulle	skulle	_	skulle	V	VF:----:ta:----
+vandre	vandre	_	vandre	V	VI:----:-a:----
+det	det	_	den	P	PM:s-un:--:----
+sidste	sidste	_	sidste	A	AC:§§u§:--:p---
+stykke	stykke	_	stykke	N	NC:siun:--:----
+af	af	_	af	T	T-:----:--:----
+vejen	vejen	,_	vej	N	NC:sduc:--:----
+og	og	_	og	C	CC:----:--:----
+ingen	ingen	_	ingen	P	PI:s-uc:--:----
+biler	biler	_	bil	N	NC:piu#:--:----
+kunne	kunne	_	kunne	V	VF:----:ta:----
+køre	køre	_	køre	V	VI:----:-a:----
+i	i	_	i	T	T-:----:--:----
+landsbyen	landsbyen	.$	landsby	N	NC:sduc:--:----
+</s>
+<s id="2000-8-162">
+vi	Vi	_	vi	P	PP:p-nc:--:-1n-
+har	har	_	have	V	VF:----:sa:----
+leaset	leaset	_	lease	V	VT:siu#:t-:----
+en	en	_	en	P	PI:s-uc:--:----
+ret	ret	_	ret	N	NC:siuc:--:----
+dyr	dyr	_	dyr	A	AC:siuc:--:p---
+kopimaskine	kopimaskine	,_	kopimaskine	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+gengæld	gengæld	_	gengæld	N	NC:siuc:--:----
+sælger	sælger	_	sælge	V	VF:----:sa:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+fotokopiering	fotokopiering	_	fotokopiering	N	NC:siuc:--:----
+ud	ud	_	ud	D	D-:----:--:u---
+af	af	_	af	T	T-:----:--:----
+huset	huset	_-_	hus	N	NC:sdun:--:----
+indtægter	indtægter	_	indtægt	N	NC:piu#:--:----
+herfra	herfra	_	herfra	D	D-:----:--:u---
+ses	ses	_	se	V	VF:----:sp:----
+andet	andet	_	anden	P	PI:s-un:--:----
+steds	steds	.$	sted	N	NC:sign:--:----
+</s>
+<s id="2000-8-163">
+spekulerede	spekulerede	_	spekulere	V	VF:----:ta:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+på	på	.$	på	T	T-:----:--:----
+</s>
+<s id="2000-8-164">
+en	En	_	en	P	PI:s-uc:--:----
+dyb	dyb	_	dyb	A	AC:siuc:--:p---
+stemme	stemme	_	stemme	N	NC:siuc:--:----
+indefra	indefra	,_	indefra	D	D-:----:--:u---
+som	som	_	som	U	US:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+straks	straks	_	straks	D	D-:----:--:u---
+genkendte	genkendte	,_	genkende	V	VF:----:ta:----
+råbte	råbte	:$	råbe	V	VF:----:ta:----
+</s>
+<s id="2000-8-165">
+bjarne	Bjarne	_	Bjarne	N	NP:siu#:--:----
+laustsen	Laustsen	,_	Laustsen	N	NP:siu#:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+præcis	præcis	_	præcis	D	D-:----:--:u---
+det	det	_	det	P	PP:s-un:--:-3n-
+er	er	,_	være	V	VF:----:sa:----
+han	han	_	han	P	PP:s-nc:--:-3n-
+har	har	_	have	V	VF:----:sa:----
+hørt	hørt	_	høre	V	VT:siu#:t-:----
+andet	andet	.$	anden	P	PI:s-un:--:----
+</s>
+<s id="2000-8-166">
+men	Men	_	men	C	CC:----:--:----
+som	som	_	som	U	US:----:--:----
+sagt	sagt	_	sige	V	VT:siu#:t-:----
+er	er	_	være	V	VF:----:sa:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+fra	fra	_	fra	T	T-:----:--:----
+1992	1992	,_	1992	L	LC:--u-:--:----
+og	og	_	og	C	CC:----:--:----
+det	det	_	det	P	PP:s-un:--:-3n-
+kunne	kunne	_	kunne	V	VF:----:ta:----
+jo	jo	_	jo	D	D-:----:--:u---
+godt	godt	_	god	A	AD:----:--:p---
+være	være	,_	være	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+vi	vi	_	vi	P	PP:p-nc:--:-1n-
+skulle	skulle	_	skulle	V	VF:----:ta:----
+se	se	_	se	V	VI:----:-a:----
+på	på	_	på	T	T-:----:--:----
+den	den	_	den	P	PP:s-uc:--:-3n-
+i	i	_	i	T	T-:----:--:----
+dag	dag	.$	dag	N	NC:siuc:--:----
+</s>
+<s id="2000-8-167">
+det	Det	_	det	P	PP:s-un:--:-3n-
+vil	vil	_	ville	V	VF:----:sa:----
+sige	sige	,_	sige	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+skærer	skærer	_	skære	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+gren	gren	_	gren	N	NC:siuc:--:----
+over	over	,_	over	T	T-:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+selv	selv	_	selv	P	PM:#-u#:--:----
+sidder	sidder	_	sidde	V	VF:----:sa:----
+på	på	.$	på	T	T-:----:--:----
+</s>
+<s id="2000-8-168">
+så	Så	_	så	D	D-:----:--:u---
+vil	vil	_	ville	V	VF:----:sa:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+gerne	gerne	_	gerne	D	D-:----:--:u---
+spørge	spørge	,_	spørge	V	VI:----:-a:----
+hvad	hvad	_	hvad	P	PR:s-u#:--:----
+regeringen	regeringen	_	regering	N	NC:sduc:--:----
+vil	vil	_	ville	V	VF:----:sa:----
+stille	stille	_	stille	V	VI:----:-a:----
+op	op	_	op	D	D-:----:--:u---
+med	med	_	med	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+gruppe	gruppe	_	gruppe	N	NC:siuc:--:----
+unge	unge	,_	unge	N	NC:siuc:--:----
+som	som	_	som	U	US:----:--:----
+har	har	_	have	V	VF:----:sa:----
+brugt	brugt	_	bruge	V	VT:siu#:t-:----
+den	den	_	den	P	PM:s-uc:--:----
+fri	fri	_	fri	A	AC:sdu#:--:p---
+ungdomsuddannelse	ungdomsuddannelse	_	ungdomsuddannelse	N	NC:siuc:--:----
+og	og	_	og	C	CC:----:--:----
+daghøjskolerne	daghøjskolerne	,_	daghøjskole	N	NC:pdu#:--:----
+indtil	indtil	_	indtil	C	CS:----:--:----
+man	man	_	man	P	PI:#-uc:--:----
+får	får	_	få	V	VF:----:sa:----
+skabt	skabt	_	skabe	V	VT:siu#:t-:----
+dette	dette	_	denne	P	PM:s-un:--:----
+fleksible	fleksible	_	fleksibel	A	AC:sdu#:--:p---
+uddannelsessystem	uddannelsessystem	,_	uddannelsessystem	N	NC:siun:--:----
+hvor	hvor	_	hvor	D	D-:----:--:u---
+der	der	_	der	U	US:----:--:----
+er	er	_	være	V	VF:----:sa:----
+plads	plads	_	plads	N	NC:siuc:--:----
+til	til	_	til	T	T-:----:--:----
+alle	alle	,_	al	P	PI:p-u#:--:----
+og	og	_	og	C	CC:----:--:----
+som	som	_	som	U	US:----:--:----
+jeg	jeg	_	jeg	P	PP:s-nc:--:-1n-
+kan	kan	_	kunne	V	VF:----:sa:----
+forstå	forstå	_	forstå	V	VI:----:-a:----
+regeringen	regeringen	_	regering	N	NC:sduc:--:----
+gerne	gerne	_	gerne	D	D-:----:--:u---
+vil	vil	_	ville	V	VF:----:sa:----
+lave	lave	.$	lave	V	VI:----:-a:----
+</s>
+<s id="2000-8-169">
+med	Med	_	med	T	T-:----:--:----
+henblik	henblik	_	henblik	N	NC:siun:--:----
+på	på	_	på	T	T-:----:--:----
+at	at	_	at	U	UI:----:--:----
+bevare	bevare	_	bevare	V	VI:----:-a:----
+udviklingskompetencen	udviklingskompetencen	_	udviklingskompetence	N	NC:sduc:--:----
+i	i	_	i	T	T-:----:--:----
+danmark	Danmark	_	Danmark	N	NP:siu#:--:----
+besluttede	besluttede	_	beslutte	V	VF:----:ta:----
+randers	Randers	_	Randers	N	NP:sig#:--:----
+reb	Reb	_	reb	N	NC:siun:--:----
+at	at	_	at	U	UI:----:--:----
+starte	starte	_	starte	V	VI:----:-a:----
+en	en	_	en	P	PI:s-uc:--:----
+produktion	produktion	_	produktion	N	NC:siuc:--:----
+op	op	_	op	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+østeuropa	Østeuropa	.$	Østeuropa	N	NP:siu#:--:----
+</s>
+<s id="2000-8-170">
+keld	Keld	_	Keld	N	NP:siu#:--:----
+albrechtsen	Albrechtsen	_[...]_:_	Albrechtsen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-171">
+frank	Frank	_	Frank	N	NP:siu#:--:----
+jensen	Jensen	_[...]_:_	Jensen	N	NP:siu#:--:----
+</s>
+<s id="2000-8-172">
+søren	Søren	_	Søren	N	NP:siu#:--:----
+søndergaard	Søndergaard	_	Søndergaard	N	NP:siu#:--:----
+som	som	_	som	U	US:----:--:----
+ordfører	ordfører	.$	ordfører	N	NC:siuc:--:----
+</s>
+<s id="2000-8-173">
+denne	Denne	_	denne	P	PM:s-uc:--:----
+form	form	_	form	N	NC:siuc:--:----
+for	for	_	for	T	T-:----:--:----
+semantisk	semantisk	_	semantisk	A	AC:siuc:--:p---
+opmærkning	opmærkning	_	opmærkning	N	NC:siuc:--:----
+kan	kan	_	kunne	V	VF:----:sa:----
+ligeledes	ligeledes	_	ligeledes	D	D-:----:--:u---
+inddeles	inddeles	_	inddele	V	VI:----:-p:----
+i	i	_	i	T	T-:----:--:----
+to	to	_	to	L	LC:--u-:--:----
+områder	områder	:_	område	N	NC:piu#:--:----
+</s>
+<s id="2000-8-174">
+det	Det	_	Det	X	XY:----:--:----
+pudsige	pudsige	_	pudsige	X	XY:----:--:----
+er	er	,_	er	X	XY:----:--:----
+at	at	_	at	X	XY:----:--:----
+de	de	_	de	X	XY:----:--:----
+fleste	fleste	_	fleste	X	XY:----:--:----
+fugle	fugle	_	fugle	X	XY:----:--:----
+deler	deler	_	deler	X	XY:----:--:----
+mit	mit	_	mit	X	XY:----:--:----
+synspunkt	synspunkt	,_	synspunkt	X	XY:----:--:----
+fortsætter	fortsætter	_	fortsætter	X	XY:----:--:----
+bent	Bent	_	Bent	X	XY:----:--:----
+lauge	Lauge	_	Lauge	X	XY:----:--:----
+madsen	Madsen	_	Madsen	X	XY:----:--:----
+det	det	,_	det	X	XY:----:--:----
+der	der	_	der	X	XY:----:--:----
+af	af	_	af	X	XY:----:--:----
+mange	mange	_	mange	X	XY:----:--:----
+vil	vil	_	vil	X	XY:----:--:----
+blive	blive	_	blive	X	XY:----:--:----
+opfattet	opfattet	_	opfattet	X	XY:----:--:----
+som	som	_	som	X	XY:----:--:----
+en	en	_	en	X	XY:----:--:----
+provokation	provokation	.$	provokation	X	XY:----:--:----
+</s>
+<s id="2000-8-175">
+1	1	,	1	L	LC:--u-:--:----
+5	5	_	5	L	LC:--u-:--:----
+millioner	millioner	_	million	N	NC:piu#:--:----
+sedler	sedler	_	seddel	N	NC:piu#:--:----
+nyordnet	nyordnet	,_	nyordne	V	VT:siu#:t-:----
+ved	ved	_	ved	T	T-:----:--:----
+at	at	_	at	C	CS:----:--:----
+alle	alle	_	al	P	PI:p-u#:--:----
+efter	efter	-	efter	T	T-:----:--:----
+middelalderlige	middelalderlige	_	middelalderlig	A	AC:p#u#:--:p---
+afskrifter	afskrifter	_	afskrift	N	NC:piu#:--:----
+bliver	bliver	_	blive	V	VF:----:sa:----
+særmærket	særmærket	.$	særmærke	N	NC:sdun:--:----
+</s>
+<s id="2000-8-176">
+statistisk	Statistisk	_	statistisk	A	AD:----:--:p---
+set	set	,_	se	V	VT:siu#:t-:----
+fordi	fordi	_	fordi	C	CS:----:--:----
+fck	FCK	_	FCK	X	XY:----:--:----
+har	har	_	have	V	VF:----:sa:----
+lukket	lukket	_	lukke	V	VT:siu#:t-:----
+af	af	_	af	T	T-:----:--:----
+bagude	bagude	.$	bagude	D	D-:----:--:u---
+</s>
+<s id="2000-8-177">
+en	En	_	en	P	PI:s-uc:--:----
+øgning	øgning	_	øgning	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+kroppens	kroppens	_	krop	N	NC:sdgc:--:----
+fedtmængde	fedtmængde	_	fedtmængde	N	NC:siuc:--:----
+hos	hos	_	hos	T	T-:----:--:----
+piger	piger	_	pige	N	NC:piu#:--:----
+er	er	_	være	V	VF:----:sa:----
+helt	helt	_	hel	A	AD:----:--:p---
+naturligt	naturligt	.$	naturlig	A	AC:siun:--:p---
+</s>
+<s id="2000-8-178">
+men	Men	_	men	C	CC:----:--:----
+sukker	sukker	_	sukke	V	VF:----:sa:----
+bydelsgartneren	bydelsgartneren	,_	bydelsgartner	N	NC:sduc:--:----
+allerede	allerede	_	allerede	D	D-:----:--:u---
+i	i	_	i	T	T-:----:--:----
+januar	januar	_\_	januar	N	NC:siuc:--:----
+februar	februar	_	februar	N	NC:siuc:--:----
+fik	fik	_	få	V	VF:----:ta:----
+hun	hun	_	hun	P	PP:s-nc:--:-3n-
+af	af	_	af	T	T-:----:--:----
+bydelsadministrationen	bydelsadministrationen	_	bydelsadministration	N	NC:sduc:--:----
+at	at	_	at	U	UI:----:--:----
+vide	vide	,_	vide	V	VI:----:-a:----
+at	at	_	at	C	CS:----:--:----
+der	der	_	der	U	US:----:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+var	var	_	være	V	VF:----:ta:----
+penge	penge	_	penge	N	NC:piu#:--:----
+på	på	_	på	T	T-:----:--:----
+budgettet	budgettet	!$	budget	N	NC:sdun:--:----
+</s>
+<s id="2000-8-179">
+kvoteadgang	Kvoteadgang	_	Kvoteadgang	N	NP:siu#:--:----
+til	til	_	til	T	T-:----:--:----
+universiteter	universiteter	_	universitet	N	NC:piu#:--:----
+er	er	_	være	V	VF:----:sa:----
+en	en	_	en	P	PI:s-uc:--:----
+positiv	positiv	_[...]_	positiv	A	AC:siuc:--:p---
+behandling	behandling	_	behandling	N	NC:siuc:--:----
+med	med	_	med	T	T-:----:--:----
+muligheder	muligheder	,_	mulighed	N	NC:piu#:--:----
+især	især	_	især	D	D-:----:--:u---
+for	for	_	for	T	T-:----:--:----
+landsbykvinder	landsbykvinder	,_	landsbykvinde	N	NC:piu#:--:----
+der	der	_	der	U	US:----:--:----
+ikke	ikke	_	ikke	D	D-:----:--:u---
+kunne	kunne	_	kunne	V	VF:----:ta:----
+gøre	gøre	_	gøre	V	VI:----:-a:----
+sig	sig	_	sig	P	PP:#-u#:--:-3y-
+gældende	gældende	_	gælde	V	VP:##u#:s-:----
+overfor	overfor	_	overfor	T	T-:----:--:----
+de	de	_	den	P	PM:p-u#:--:----
+bogvante	bogvante	_	bogvant	A	AC:p#u#:--:p---
+byfamilier	byfamilier	_	byfamilie	N	NC:piu#:--:----
+i	i	_	i	T	T-:----:--:----
+en	en	_	en	P	PI:s-uc:--:----
+ren	ren	_	ren	A	AC:siuc:--:p---
+kvalifikationskonkurrence	kvalifikationskonkurrence	.$	kvalifikationskonkurrence	N	NC:siuc:--:----
+</s>
+<s id="2000-8-180">
+bosted	Bosted	_	bosted	N	NC:siun:--:----
+er	er	_	være	V	VF:----:sa:----
+den	den	_	den	P	PM:s-uc:--:----
+største	største	_	stor	A	AC:§du§:--:s---
+skillelinieproducent	skillelinieproducent	_	skillelinieproducent	N	NC:siuc:--:----
+mht	mht	_	m.h.t.	X	XS:----:--:----
+socialklasser	socialklasser	,_	socialklasse	N	NC:piu#:--:----
+men	men	_	men	C	CC:----:--:----
+er	er	_	være	V	VF:----:sa:----
+også	også	_	også	D	D-:----:--:u---
+en	en	_	en	P	PI:s-uc:--:----
+del	del	_	del	N	NC:siuc:--:----
+af	af	_	af	T	T-:----:--:----
+det	det	_	den	P	PM:s-un:--:----
+sociale	sociale	_	social	A	AC:sdu#:--:p---
+støttenetværk	støttenetværk	.$	støttenetværk	N	NC:siun:--:----
+</s>
+<s id="2000-8-181">
+i	I	_	i	T	T-:----:--:----
+slutningen	slutningen	_	slutning	N	NC:sduc:--:----
+af	af	_	af	T	T-:----:--:----
+januar	januar	_	januar	N	NC:siuc:--:----
+steg	steg	_	stige	V	VF:----:ta:----
+spotprisen	spotprisen	_	spotpris	N	NC:sduc:--:----
+markant	markant	_	markant	A	AC:siu§:--:p---
+til	til	_	til	T	T-:----:--:----
+c	c	.$	C	N	NC:siun:--:----
+</s>
+<s id="2000-8-182">
+5	5	._	5	L	LC:--u-:--:----
+for	for	_	for	T	T-:----:--:----
+den	den	_	den	P	PM:s-uc:--:----
+udvidede	udvidede	_	udvide	V	VP:sdu#:t-:----
+afgangsprøve	afgangsprøve	.$	afgangsprøve	N	NC:siuc:--:----
+</s>
