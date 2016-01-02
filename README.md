@@ -8,7 +8,9 @@
 
 ## Evaluation
 A classification report without BI prefixes, testing on the following files (and training on the rest of semdax):
+
 | precision| recall| f1-score| support|
+|---|---|---|---|
 | O| 0.94| 0.96| 0.95| 9179|
 | adj.all| 0.66| 0.62| 0.64| 294|
 | adj.mental| 0.54| 0.57| 0.56| 68|
