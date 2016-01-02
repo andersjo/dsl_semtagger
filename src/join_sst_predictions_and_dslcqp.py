@@ -29,7 +29,6 @@ def main():
     args = parser.parse_args()
 
     pred_sst_dict = getPredDict(args.infile_ud, args.infile_sstpred)
-    print(list(pred_sst_dict.keys()))
     current_sentence_id = ""
     sentenceoffset = 0
     for line in open(args.infile_cqp).readlines():
