@@ -9,6 +9,9 @@
 ## Evaluation
 A classification report without BI prefixes, testing on the following files (and training on the rest of semdax):
 
+1227-da.tag.ann2,1333-da.tag.ann3,1478-da.tag.curated,1548-da.tag.ann2,se_og_hoer-1.xml.curated,1250-da.tag.ann2,1339-da.tag.ann3,1488-da.tag.ann2,bentesblog-1.xml.curated,se_og_hoer-3.xml.curated,1276-da.tag.ann2,1361-da.tag.ann3,1490-da.tag.ann2,folketingetstaler-1.xml.curated,selvhenter-1.xml.ann2,1300-da.tag.ann3,1466-da.tag.curated,1508-da.tag.ann2,mangamania-1.xml.curated
+
+
 | precision| recall| f1-score| support|
 |---|---|---|---|
 | O| 0.94| 0.96| 0.95| 9179|
