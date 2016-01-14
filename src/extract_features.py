@@ -268,7 +268,7 @@ def main():
         from uniwordnet.dannet import DannetLoader, Dannet
         (embeddings,dimensions) = readembeddings(args.embeddings)
         senselexicon = readsenselexicon(args.senselexiconfolder)
-        dannet = Dannet.load('/Users/alonso/data/DanNet-2.2_csv')
+        dannet = Dannet.load('../data/res/DanNet-2.2_csv')
         allfeats = []
         for sentid,sent in enumerate(readSentences(args.infile)):
             allfeats.extend(sent.featurizesentence_supersense(sentid,embeddings,dimensions,browndict,senselexicon,dannet))
