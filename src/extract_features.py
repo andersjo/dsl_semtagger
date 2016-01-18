@@ -11,6 +11,10 @@ import nltk
 
 INPUTFILECOLUMNS = "id form lemma pos supersense".split(" ")
 
+notOT = []
+notSenseLex = []
+
+
 class Sentence:
     def __init__(self):
         self.comments = []
@@ -36,7 +40,7 @@ class Sentence:
             fi.f_morphology(self.forms[idx],self.postags[idx])
             fi.f_embeddings(self.forms[idx],embeddings,dimensions)
             fi.f_brownclusters(self.forms[idx],brownclusters)
-            fi.f_lexiconfeats(self.forms[idx],senselexicon)
+            fi.f_lexiconfeats(self.postags[idx],self.lemmas[idx],senselexicon)
             fi.f_ontotype_feature(self.postags[idx],self.lemmas[idx],wordnet)
             sentencefeats.append(fi)
         return sentencefeats
@@ -103,11 +107,15 @@ class FeatureInstance:
     def f_brownclusters(self,word,brownclusters):
         self.feats["brownclusters"] =  brownclusters.get(word.lower(),"OOV")
 
-    def f_lexiconfeats(self,word,senselexicon):
-        self.feats["senselexicon"] =  " ".join(sorted(senselexicon.get(word.lower(),[])))
+    def f_lexiconfeats(self,pos,lemma,senselexicon):
+        self.feats["senselexicon"] =  " ".join(sorted(senselexicon.get(lemma.lower(),[])))
+        if len(self.feats["senselexicon"]) == 0 and  pos in self.checkpos.keys() and len(lemma) > 2:
+            notSenseLex.append(lemma)
 
     def f_ontotype_feature(self,pos,lemma,dannet):
         ot = "_"
+        global coverage_report
+
         if pos in self.checkpos.keys():
             s = dannet.synsets(lemma.lower()+"."+self.checkpos[pos])
             if s:
@@ -118,7 +126,8 @@ class FeatureInstance:
         if "+" in ot:
             ot = ot +" "+" ".join(ot.split("+"))
         self.feats["ontotype"] =  ot
-
+        if ot == "_" and pos in self.checkpos.keys() and len(lemma) > 2:
+            notOT.append(lemma)
 
 
 
@@ -257,6 +266,8 @@ def main():
     parser.add_argument("--embeddings",   metavar="FILE", help="input UD format file",default ="../data/res/da.clarindk.embd")
     parser.add_argument("--senselexiconfolder",   metavar="FILE", help="input UD format file",default ="../data/res/senselists/")
     parser.add_argument("--labels",  help="supersense/pos", default ="supersense")
+    parser.add_argument("--report",  help="print out a report file ", action="store_true",default=False)
+
 
     args = parser.parse_args()
     browndict = readclusters(args.brownclusters)
@@ -282,8 +293,17 @@ def main():
     else:
         exit("bad label type")
 
+
+    if args.report:
+        all_oov = set(notOT+notSenseLex)
+        print("-\tin Dannet\tin sense lists",file=sys.stderr)
+        for w in sorted(all_oov):
+            print(w+"\t"+str(int(w not in notOT))+"\t"+str(int(w not in notSenseLex)),file=sys.stderr)
+
+
     for f in allfeats:
         print(f)
+
 
 
 

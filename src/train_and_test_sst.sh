@@ -5,7 +5,7 @@ modelname="../data/sst/da_traintest_sst_mdl"
 
 
 python extract_features.py --infile $trainsstcorpus --labels supersense > $trainsstcorpus.fss
-python extract_features.py --infile $testsstcorpus --labels supersense > $testsstcorpus.fss
+python extract_features.py --infile $testsstcorpus --labels supersense --report > $testsstcorpus.fss 2> $testsstcorpus.rep
 
 rungsted --train $trainsstcorpus.fss --final-model $modelname --test $testsstcorpus.fss --predictions $testsstcorpus.sstpred
 
