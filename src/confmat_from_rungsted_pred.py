@@ -25,8 +25,6 @@ def main():
             y.append(goldlabel)
             y_pred.append(predicted)
 
-    print(y_pred)
-
     print(classification_report(y,y_pred))
 
 
