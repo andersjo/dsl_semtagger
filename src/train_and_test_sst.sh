@@ -8,5 +8,7 @@ python extract_features.py --infile $trainsstcorpus --labels supersense > $train
 python extract_features.py --infile $testsstcorpus --labels supersense --report > $testsstcorpus.fss 2> $testsstcorpus.rep
 
 rungsted --train $trainsstcorpus.fss --final-model $modelname --test $testsstcorpus.fss --predictions $testsstcorpus.sstpred
-python confmat_from_rugsted_pred.py --infile $testsstcorpus.sstpred > $testcorpus.eval
+python confmat_from_rungsted_pred.py --infile $testsstcorpus.sstpred > $testsstcorpus.eval
+
+
 
